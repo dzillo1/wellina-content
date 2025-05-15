@@ -1,0 +1,1343 @@
+.banner-container{
+   background-color: #6300d9;
+   position: relative;
+   z-index: 2;
+}
+
+.promo-text-container {
+   position: static;
+
+}
+
+header{
+   position: fixed;
+   top:0;
+   width:100%;
+   z-index: 1041;
+   background-color:#fff;
+}
+header #mobile-menu {
+   padding: 5px 0 0;
+}
+header img.wellina-logo {
+   width: 144px;
+   height: auto;
+}
+header img.myaacct-icon {
+   width: 20px;
+   height: auto;
+   padding: 0;
+}
+header img.myaacct-icon.profile-mbl {
+   width: 16px;
+   height: auto;
+   padding: 0;
+   margin-left:5px;
+}
+
+header div.top-bar .header-links ul#signOutMbl span.glyphicon.glyphicon-log-out{
+font-size:16px;
+margin-left:5px;
+}
+header img.myaacct-icon-filled {
+   width: 26px;
+   height: auto;
+   padding: 0;
+}
+
+header img.cart-icon-filled {
+   width: 24px;
+   height: auto;
+   padding: 0;
+}
+header #account, header #cart, header #menu-phone {
+   margin: 0 5px;
+}
+
+
+#call .bg-primary, #call > div {
+   padding: 0;
+   position: relative;
+   top: 7px;
+   background: 0 0
+}
+#call .bg-primary .glyphicon-earphone, #call .glyphicon-earphone {
+   color: #539a0a;
+   font-size: 19px;
+   vertical-align: baseline
+}
+#call .bg-primary a, #call a {
+   padding: 10px 5px 0 18px;
+}
+header > div.top-bar .header-links ul > li.cart {
+   position: relative;
+}
+header > div.top-bar .header-links ul > li.cart:hover {
+   background: 0 0;
+}
+header > div.top-bar {
+   width: 100%;
+   position: static;
+   margin-top: 0px;
+   
+}
+header > .top-bar .header-links {
+   padding-top: 0px;
+   float: right;
+   height: 0;
+}
+header > .top-bar .header-links ul > li#mobile-menu > a {
+   padding-left: 0;
+}
+a.nutrisystem-logo {
+   margin-left: 40px;
+}
+header > nav.nav-bar-container li.subnav {
+   background: #eff6e4;
+}
+header > nav.nav-bar-container li.subnav .subnav-label {
+   color: #43791d;
+   font-family: roc-grotesk, sans-serif;
+   font-size: 1.25em;
+   border-bottom: 1px solid #ccc;
+   display: block;
+   width: 92%;
+   margin-bottom: 10px;
+}
+header > nav.nav-bar-container li.subnav ul {
+   list-style-type: none;
+   padding-bottom: 20px
+}
+header > nav.nav-bar-container li.subnav li {
+   padding: 12px 0 0 5px
+}
+header > nav.nav-bar-container li.subnav ul.plans-list a {
+   color: #2B0544;
+   display: block
+}
+#call, #mobile-menu {
+   display: inline-block
+}
+.visible-xs-sm {
+   display: none !important
+}
+header > .top-bar .header-links ul > li a {
+   padding: 0px 5px 0 18px
+}
+span#mainNav.badge span b {
+   background-color: #64a535 !important;
+   border-radius: 15px;
+   padding: 5px 10px;
+   left: 6px !important;
+   position: absolute;
+   top: -3px;
+}
+
+.mobile-promo {
+   font-size: 15px
+}
+header .middle-bar {
+   height: auto;
+   margin-top: 0px;
+   border-bottom: 1px solid #BFC2C4;
+}
+#call .bg-primary, #call > div {
+   padding: 0;
+   position: relative;
+   top: 7px;
+   background: 0 0
+}
+#call .bg-primary .glyphicon-earphone, #call .glyphicon-earphone {
+   color: #539a0a;
+   font-size: 19px;
+   vertical-align: baseline
+}
+#call .bg-primary a, #call a {
+   padding: 10px 5px 0 18px
+}
+header > div.top-bar .header-links ul > li.cart {
+   position: relative
+}
+header > div.top-bar .header-links ul > li.cart > a > span.badge {
+   align-items: center;
+   border: 0;
+   padding: 6px 6px;
+   position: absolute;
+   width: 20px;
+   height: 20px;
+   background: #C10DFA;
+   border-radius: 16px;
+   z-index: 1;
+   font-family: 'Roc-Grotesk';
+   font-style: normal;
+   font-weight: 800;
+   font-size: 12px;
+   line-height: 9px;
+   display: flex;
+   align-items: center;
+   color: #FFFFFF;
+   top: -11px;
+   left: 16px;
+}
+header > div.top-bar .header-links ul > li.cart:hover {
+   background: 0 0
+}
+
+header > .top-bar .header-links {
+   padding-top: 13px;
+   float: right;
+   height: 0
+}
+
+
+header > .top-bar .header-links ul > li#mobile-menu > a {
+   padding-left: 0
+}
+a.nutrisystem-logo {
+   margin-left: 40px
+}
+header > nav.nav-bar-container div.navbar ul.navbar-nav > li > a {
+   font-size: 1.375em;
+   border-top: 1px solid #ccc
+}
+header > nav.nav-bar-container div.navbar ul.navbar-nav > li#menu-how-it-works > a {
+   border-top: 0;
+   padding-top: 0;
+}
+header > nav.nav-bar-container div.navbar ul.navbar-nav > li.active > a, header > nav.nav-bar-container div.navbar-default {
+   border-top: 0;
+}
+#menu-shop-plans a {
+   border-top: 0;
+   display: block
+}
+header > nav.nav-bar-container div.navbar ul.navbar-nav > li.active + li > a, header > nav.nav-bar-container div.navbar ul.navbar-nav > li.active + li.subnav + li.subnav + li.subnav + li.subnav + li > a {
+   border: 0;
+}
+.navbar-default .navbar-nav > li > a {
+   padding: 14px 0 8px 0;
+}
+header > nav.nav-bar-container div.navbar ul.navbar-nav li a span.glyphicon {
+   font-size: 1.4rem;
+   padding-top: 4px;
+   padding-right: 0;
+   float: right;
+   color: #2B0544;
+   line-height: 1.5;
+}
+header > nav.nav-bar-container div.navbar div.container {
+   height: 675px;
+   box-shadow: 0 10px 10px 0 #ccc;
+   padding: 0;
+   position: relative;
+}
+header > nav.nav-bar-container div.navbar ul.navbar-nav {
+   padding: 0;
+}
+header > nav.nav-bar-container div.navbar-default {
+   opacity: 1;
+}
+header > nav.nav-bar-container div.navbar ul.navbar-nav > li {
+   border-bottom: 0;
+   padding: 0 15px;
+}
+header > nav.nav-bar-container div.navbar ul.navbar-nav > li.active > a {
+   border-bottom: 1px solid #ccc;
+}
+#menu-get-started {
+   position: absolute;
+   bottom: 50px;
+   border: 0;
+   width: 100%;
+   left: 0;
+}
+#menu-contact-us:not(.active) a {
+   border-bottom: 1px solid #ccc;
+}
+#menu-contact-us svg {
+   width: 18px;
+   margin-right: 12px;
+   position: relative;
+   top: 3px;
+}
+header > nav.nav-bar-container div.navbar ul.navbar-nav > li#menu-success-stories > a > span.nav-text, header > nav.nav-bar-container div.navbar ul.navbar-nav > li#menu-success-stories > a:active > span.nav-text {
+   color: #C10DFA;
+}
+header > nav.nav-bar-container div.navbar ul.navbar-nav > li.active {
+   background: #eff6e4;
+   display: list-item;
+}
+header > nav.nav-bar-container div.navbar ul.navbar-nav > li.active > a span.glyphicon-menu-right {
+   display: none !important;
+}
+header > nav.nav-bar-container div.navbar ul.navbar-nav > li > a span.glyphicon-menu-left {
+   float: none;
+}
+header > nav.nav-bar-container div.navbar ul.navbar-nav > li.subnav > a, header > nav.nav-bar-container div.navbar ul.navbar-nav > li.subnav > a:hover {
+   font-family: arial, sans-serif;
+   font-size: 14px;
+   font-weight: 700;
+}
+header > nav.nav-bar-container div.navbar ul.navbar-nav .tab-pane {
+   border: 0;
+   padding: 0;
+}
+header > nav.nav-bar-container div.navbar ul.navbar-nav .tab-pane ul {
+   list-style-type: none;
+   padding-bottom: 25px;
+}
+header > nav.nav-bar-container div.navbar ul.navbar-nav .tab-pane li {
+   position: relative;
+   padding: 12px 0 0 5px;
+}
+header > nav.nav-bar-container div.navbar ul.navbar-nav .tab-pane a {
+   color: #43791d;
+   font-family: roc-grotesk, sans-serif;
+   font-size: 1.25em;
+}
+header > nav.nav-bar-container li.subnav {
+   background: #eff6e4;
+}
+header > nav.nav-bar-container li.subnav .subnav-label {
+   color: #43791d;
+   font-family: roc-grotesk, sans-serif;
+   font-size: 1.25em;
+   border-bottom: 1px solid #ccc;
+   display: block;
+   width: 92%;
+   margin-bottom: 10px;
+}
+header > nav.nav-bar-container li.subnav ul {
+   list-style-type: none;
+   padding-bottom: 20px;
+}
+header > nav.nav-bar-container li.subnav li {
+   padding: 12px 0 0 5px
+}
+header > nav.nav-bar-container li.subnav ul.plans-list a {
+   color: #2B0544;
+   display: block;
+}
+.dropdown-menu > li > a, .nav-tabs > li > a, .navbar-default .navbar-nav > li > a {
+   font-family: roc-grotesk, sans-serif;
+}
+#menu-get-started a {
+   color: #64a535;
+   font-family: arial, sans-serif;
+   font-size: 1.0625em;
+   font-weight: 700;
+   text-transform: none;
+   width: 80%;
+   text-align: center;
+   margin: 0 auto;
+   border: 1px solid #64a535;
+   border-radius: 45px;
+   padding: 10px 0 8px 0
+}
+#call, #mobile-menu {
+   display: inline-block
+}
+.visible-xs-sm {
+   display: none !important;
+}
+header > .top-bar .header-links ul > li a {
+   padding: 0px 5px 0 18px;
+}
+header > nav.nav-bar-container div.navbar ul.navbar-nav > li.collapse {
+   display: none;
+}
+header > nav.nav-bar-container div.navbar ul.navbar-nav > li.collapse.in {
+   display: list-item;
+}
+header > nav.nav-bar-container div.how-it-works ul.navbar-nav > li#menu-how-it-works > a, header > nav.nav-bar-container div.myprogram ul.navbar-nav > li > a.active_myprogram, header > nav.nav-bar-container div.myprogram-dna ul.navbar-nav > li > a.active-dna-report, header > nav.nav-bar-container div.shop ul.navbar-nav > li > a.active_shop, header > nav.nav-bar-container div.shop-plans div.sub-nav-container ul.nav > li#basic-plan > a, header > nav.nav-bar-container div.shop-plans ul.navbar-nav > li#menu-shop-plans > a, header > nav.nav-bar-container div.success-stories ul.navbar-nav > li#menu-success-stories > a, header > nav.nav-bar-container div.view-menu ul.navbar-nav > li#menu-view-menu > a {
+   background-color: inherit;
+}
+header > nav.nav-bar-container div.how-it-works ul.navbar-nav > li#menu-how-it-works > a .nav-text, header > nav.nav-bar-container div.myprogram ul.navbar-nav > li > a.active_myprogram .nav-text, header > nav.nav-bar-container div.myprogram-dna ul.navbar-nav > li > a.active-dna-report .nav-text, header > nav.nav-bar-container div.shop ul.navbar-nav > li > a.active_shop .nav-text, header > nav.nav-bar-container div.shop-plans div.sub-nav-container ul.nav > li#basic-plan > a .nav-text, header > nav.nav-bar-container div.shop-plans ul.navbar-nav > li#menu-shop-plans > a .nav-text, header > nav.nav-bar-container div.success-stories ul.navbar-nav > li#menu-success-stories > a .nav-text, header > nav.nav-bar-container div.view-menu ul.navbar-nav > li#menu-view-menu > a .nav-text {
+   border-bottom: 2px solid #75a246;
+}
+header .middle-bar a.wellina-logo {
+   margin-left: 0px;
+}
+#account .tab-pane {
+   border: 0;
+   border-bottom: 2px solid #ccc;
+   padding: 15px 15px 0;
+}
+#account .tab-pane ul {
+   border: 0;
+   padding: 0;
+}
+#account .tab-pane ul {
+   list-style-type: none;
+   padding-bottom: 25px;
+   margin: 0;
+   padding: 0 16px 30px 0;
+}
+#account .tab-pane li {
+   position: relative;
+   padding: 12px 0 0 5px;
+   text-align: left;
+   margin-bottom: 6px;
+   height: 41px;
+}
+#account .tab-pane li:first-child {
+   border-bottom: 1px solid #ccc;
+}
+#account .tab-pane li p {
+   text-decoration: none;
+   text-align: left;
+   font-family: roc-grotesk, sans-serif;
+   font-size: 1.375em;
+   overflow: hidden;
+   line-height: 1.375em;
+   position: relative;
+   top: -12px;
+   margin-bottom: 3px;
+}
+#account .tab-pane li a {
+   text-decoration: none;
+   text-align: left;
+   color: #2B0544;
+   font-family: roc-grotesk, sans-serif;
+   font-size: 1.25em;
+   padding-left: 0;
+   text-transform: none;
+}
+#account-menu {
+   width: 100%;
+   background: #fff;
+   position: absolute;
+   left: 0;
+   top: 50px
+}
+#AccountPanel svg {
+   top: 5px;
+   margin-right: 10px;
+   position: relative
+}
+header > .top-bar .header-links ul > li a {
+   padding: 0px 0px 0 0px;
+   text-decoration: none;
+}
+
+#menu-phone {
+   position: relative;
+}
+#menu-phone a {
+   color: #43791D;
+   font-size: 1.2em;
+   text-transform: none;
+   width: 80%;
+   text-align: center;
+   margin: 0 auto;
+}
+#menu-phone .number {
+   display: none;
+}
+.wellina-footer {
+   background-color: #FFFBD1;
+   padding: 20px 0 60px
+}
+.wellina-footer ul {
+   columns: 2;
+   -webkit-columns: 2;
+   -moz-columns: 2;
+   margin-bottom: 30px;
+}
+.wellina-footer li {
+   font-size: 1em
+}
+.wellina-footer hr {
+   border-top: 1px solid #707070
+}
+.wellina-footer img.well-logo-foot {
+   margin-bottom: 25px
+}
+.wellina-footer a {
+   text-decoration: none;
+   color: #2b0544
+}
+.wellina-footer .email-lead input {
+   margin: 0;
+   line-height: 1;
+   padding: 8px;
+   height: 38px;
+   border: 1px solid #D6D6D6;
+   border-radius: 4px 0px 0px 4px
+}
+.wellina-footer .email-lead input::placeholder {
+   opacity: 0.5;
+   color: #959A9D;
+   font-family: 'Roc-Grotesk';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 14px;
+   line-height: 22px;
+}
+.wellina-footer .email-lead .form-group {
+   display: inline-block;
+   vertical-align: middle;
+   margin-bottom: 0;
+   width: 195px;
+}
+.wellina-footer .email-lead button {
+   display: inline-block;
+   vertical-align: middle;
+   padding: 8px 20px;
+   color: #fff;
+   width: 144px;
+   height: 38px;
+   background: #27B8CB;
+   border-color: transparent;
+   border-radius: 0px 4px 4px 0px;
+   font-family: 'Roc-Grotesk';
+   font-style: normal;
+   font-weight: 800;
+   font-size: 16px;
+   line-height: 20px;
+   text-transform: uppercase;
+}
+.wellina-footer .get-offers p.head {
+   font-size: 1.125em;
+   margin: 0 0 10px;
+}
+.wellina-footer .get-offers p.sub {
+   font-size: 0.875em;
+}
+.wellina-footer p.follow {
+   font-size: 1.125em;
+}
+footer.wellina-footer .small a {
+   color: #2B0544;
+   text-decoration: underline;
+}
+.wellina-footer .joined p.head {
+   font-size: 1.75em;
+   margin: 0;
+}
+.wellina-footer .joined p.sub {
+   font-size: 0.875em;
+}
+
+
+.header-links.myaccount-logged-in .account-txt{
+text-align: left;
+line-height:1.2;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 949px) {
+   .hidden-xs-sm {
+      display: none !important;
+   }
+   .visible-xs-sm {
+      display: block !important;
+   }
+   .body-menu-open {
+      overflow: hidden;
+   }
+   header > nav.nav-bar-container div.navbar-default {
+      top: 101px;
+      overflow-y: scroll;
+      position: absolute;
+      height: calc(100vh - 101px)
+   }
+}
+@media (max-width: 767px) {
+   main#content {
+      margin-top: 100px;
+  }
+   .mobile-promo small, .mobile-promo strong {
+      display: none;
+   }
+   .mobile-promo {
+      padding: 5px 0px 5px 0px;
+   }
+   header > div.top-bar .header-links.myaccount-logged-in ul.logged-in > li{
+      text-align: right;
+      padding:16px 10px;
+   }
+   header > div.top-bar .header-links.myaccount-logged-in ul.logged-in > li > a {
+      color: inherit;
+      font-size: 16px;
+      max-height: 35px;
+      text-decoration: none;
+      text-transform: capitalize;
+      vertical-align: middle;
+      text-decoration: none;
+      color:#2B0544;
+  }
+  header > div.top-bar .header-links.myaccount-logged-in a.logout{
+   color:#2B0544;
+   font-size:16px;
+  }
+  header > div.top-bar .header-links.myaccount-logged-in ul.logged-in img.myaacct-icon-mbl{
+   position: relative;
+   bottom:2px;
+  }
+
+  header > div.top-bar .header-links.myaccount-logged-in ul.logged-in span.glyphicon.glyphicon-log-out {
+   font-size: 13px;
+}
+header #account, header #cart, header #menu-phone {
+   vertical-align: bottom;
+}
+
+}
+
+
+
+
+
+
+
+
+@media (max-width: 360px) {
+   header img.wellina-logo {
+      width: 128px;
+      height: auto;
+      padding-top: 0px;
+   }
+   header #account, header #cart, header #menu-phone {
+      margin: 0px;
+   }
+   header > div.top-bar {
+
+      margin-top: 5px;
+   }
+   header .middle-bar {
+      margin-top: 0px
+   }
+   header > nav.nav-bar-container div.navbar-default {
+      top: 101px
+   }
+   .wellina-footer .email-lead button {
+      width: 125px;
+   }
+   header > div.top-bar .header-links ul {
+      margin: 0;
+   }
+      header > .top-bar .header-links {
+    padding-top: 3px;
+}
+}
+@media (max-width: 320px) {
+   .wellina-footer .email-lead .form-group {
+      width: 160px;
+   }
+
+}
+@media (min-width: 568px) {
+
+   header > div.top-bar .header-links ul {
+      margin: 0px 0 0;
+   }
+}
+
+
+
+@media (min-width: 768px) {
+   header > .top-bar .header-links.myaccount-logged-in {
+      margin-top: 0px;
+  }
+   header .logged-in img.myaacct-icon-filled {
+      position: relative;
+      bottom:10px;
+   }
+   footer .get-offers, footer .joined {
+      float: right;
+   }
+   header > div.top-bar .header-links ul > li.cart > a > span.badge {
+      top: -6px;
+      left: 28px;
+   }
+   header img.wellina-logo {
+      width: 218px;
+   }
+   header > div.top-bar .header-links ul {
+      margin: 0;
+   }
+   header > div.top-bar .header-links.myaccount-logged-in ul {
+      margin: 0px 0 0;
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav > li#menu-how-it-works > a {
+      padding-top: 15px;
+   }
+   .mobile-promo {
+      font-size: 18px
+   }
+
+   a.promo-banner {
+      padding: 2px 15px 6px
+   }
+   .promo-text-container a.promo-banner .offer-details {
+      right: auto;
+      top: 7px
+   }
+   a.nutrisystem-logo {
+      padding-top: 6px;
+   }
+   header > div.top-bar .header-links ul > li > a span.glyphicon-remove {
+      display: block;
+      left: -2px
+   }
+   header > div.top-bar .header-links ul > li.cart {
+      background: 0 0;
+      margin-left: 0;
+   }
+   header > div.top-bar .header-links ul > li.cart a, header > div.top-bar .header-links ul > li > a {
+      padding: 11px 5px 0 12px
+   }
+
+   header .middle-bar {
+      margin-top: 0;
+      border-bottom: 0;
+      background-color:transparent;
+      margin-top: -65px;
+   }
+   header > .top-bar .header-links ul > li#mobile-menu > a {
+      padding-top: 15px;
+   }
+   header .middle-bar a.wellina-logo {
+      margin-left: 0px;
+
+   }
+   a.nutrisystem-logo {
+      padding-top: 6px
+   }
+   header > div.top-bar .header-links ul > li > a span.glyphicon-remove {
+      display: block;
+      left: -2px
+   }
+   header > div.top-bar .header-links ul > li.cart {
+      background: 0 0;
+      margin-left: 0
+   }
+   header > div.top-bar {
+      top: 0px;
+      margin-top: 0;
+background-color: #fff;
+
+      height: 80px;
+      border-bottom: 1px solid #BFC2C4;
+   }
+   header > div.top-bar .header-links ul > li.cart a, header > div.top-bar .header-links ul > li > a {
+      padding: 0px 5px 0 12px
+   }
+      header > div.top-bar .header-links.myaccount-logged-in ul > li.cart a, header > div.top-bar .header-links.myaccount-logged-in ul > li > a {
+      padding: 0;
+   }
+   header > nav.nav-bar-container div.navbar div.container {
+      width: 100%;
+      height: 200px;
+   }
+   header > nav.nav-bar-container div.navbar-default {
+      display: none;
+      position: static;
+
+      height: 220px;
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav {
+      max-width: none;
+      margin: 0;
+      display: block
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav > li {
+      display: list-item;
+      float: none;
+      text-align: left
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav > li a {
+      text-align: left;
+      border-left: none;
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav > li.active > a, header > nav.nav-bar-container div.navbar ul.navbar-nav > li.active > a:hover {
+      background: #eff6e4
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav > li > a > span.nav-text {
+      width: auto;
+      text-align: left
+   }
+   header > div.top-bar .header-links ul > li#cart a span.cart-txt, header > div.top-bar .header-links ul > li#account a span.sign-in-txt, header > div.top-bar .header-links ul > li#account a span.account-txt {
+      font-size: 14px;
+      font-family: 'Roc-Grotesk';
+      color: #2B0544;
+      display: inline-block;
+      margin-left: 5px;
+   }
+   header > div.top-bar .header-links.myaccount-logged-in ul > li#cart a span.cart-txt{
+      margin-left: 3px;
+   }
+   header > div.top-bar .header-links.myaccount-logged-in ul > li {
+    margin:0 20px;
+    height:auto;
+}
+   header > div.top-bar .header-links ul > li#account.logged-in a span.sign-in-txt{
+      text-align:left;
+      line-height: 1.2;
+   }
+   header > div.top-bar .header-links ul li#cart, header > div.top-bar .header-links ul li#account, header > div.top-bar .header-links ul li#menu-phone {
+      margin: 12px 0 0;
+   }
+
+   header > div.top-bar .header-links ul li#account, header > div.top-bar .header-links ul li#menu-phone {
+      margin: 15px 0px 0;
+   }
+      header > div.top-bar .header-links.myaccount-logged-in ul li#cart {
+      margin: 15px 20px 0;
+   }
+header > div.top-bar .header-links.myaccount-logged-in ul li#cart {
+      margin: 0;
+      padding:0;
+      position: relative;
+      top:3px;
+   }
+   header > div.top-bar .header-links.myaccount-logged-in ul li#account {
+         margin: 0;
+         padding:0;
+         position: relative;
+      top:8px;
+      }
+   header > div.top-bar .header-links.myaccount-logged-in ul li#menu-phone {
+         margin: 0;
+         padding:0;
+      }
+
+
+   #menu-phone a {
+      width: auto;
+   }
+   #menu-phone svg {
+      margin-right: 12px;
+   }
+   #menu-phone .number {
+      display: inline;
+      position: relative;
+      top: 0px;
+      color: #6300D9;
+      font-family: 'Roc-Grotesk';
+      font-weight: normal;
+      font-size: 1.5em;
+   }
+   .wellina-footer img.well-logo-foot {
+      margin: 0;
+      width: 140px
+   }
+   .wellina-footer li {
+      font-size: .9em;
+   }
+   .wellina-footer .email-lead button {
+      width: 105px;
+      padding: 8px 10px;
+   }
+   .wellina-footer .email-lead .form-group {
+      width: 175px;
+   }
+   .wellina-footer ul {
+      margin: 0 0 0 0px;
+   }
+   .wellina-footer ul.term-links {
+      columns: 1;
+      -webkit-columns: 1;
+      -moz-columns: 1;
+      margin: 0;
+   }
+   .wellina-footer ul.term-links {
+      columns: 1;
+      -webkit-columns: 1;
+      -moz-columns: 1;
+      margin: 0;
+      padding: 0px 0 10px 0px;
+   }
+   .wellina-footer ul.term-links li {
+      font-size: .8em;
+      display: inline;
+      list-style-type: none;
+      padding: 0 2px 0 5px;
+      border-left: 1px solid #000;
+   }
+   .wellina-footer ul.term-links li:nth-of-type(1) {
+      border-left: 0;
+      padding-left: 0;
+   }
+   .wellina-footer p.follow {
+      float: right;
+   }
+   .wellina-footer .joined p.head {
+      margin: 15px auto 0;
+   }
+   header > .top-bar .header-links.myaccount-logged-in ul > li a {
+      color: inherit;
+      font-size: 14px;
+      text-decoration: none;
+      text-transform: capitalize;
+      vertical-align: middle;
+   }
+   .header-links.myaccount-logged-in img.myaacct-icon-filled {
+      position: relative;
+      bottom: 8px;
+      margin-right: 5px;
+      width: auto;
+    height: 30px;
+   }
+   .header-links.myaccount-logged-in .account-txt {
+      font-size:14px;
+      display:inline-block;
+   }
+   .header-links.myaccount-logged-in span.glyphicon.glyphicon-log-out{
+      font-size:27px;
+   }
+   .header-links.myaccount-logged-in span.logout-txt{
+      position: relative;
+      bottom:6px;
+      margin-left:3px;
+   }
+   header .header-links.myaccount-logged-in img.cart-icon-filled {
+      width: auto;
+      height: 27px;
+      padding: 0;
+  }
+  header > .top-bar .header-links {
+   padding-top: 10px;
+}
+}
+@media (min-width: 950px) {
+
+
+   header > nav.nav-bar-container div.navbar ul.navbar-nav .tab-pane.collapse {
+      display: none;
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav .tab-pane.active.in, header > nav.nav-bar-container div.navbar ul.navbar-nav .tab-pane.collapse.in:not(.active) {
+      display: block;
+      height: auto !important
+   }
+
+   header > nav.nav-bar-container div.navbar-default {
+      display: block;
+      position: static;
+      border-top: 0;
+      z-index: 0;
+      background: 0 0;
+   }
+   header img.wellina-logo {
+      width: 218px;
+   }
+   header .middle-bar a.wellina-logo {
+      margin-left: 0px;
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav > li a {
+      text-align: center;
+   }
+   #call, #mobile-menu {
+      display: none;
+   }
+   header > div.top-bar .header-links ul > li.cart {
+      background: 0 0;
+      margin-left: 0
+   }
+   header > div.top-bar .header-links ul li#cart, header > div.top-bar .header-links ul li#account, header > div.top-bar .header-links ul li#menu-phone {
+      margin: 0px 0 0;
+      padding: 0;
+   }
+   header > div.top-bar .header-links ul li#cart {
+      margin: 0px 10px 0;
+   }
+   #account a, #cart a {
+      height: 35px
+   }
+   header > div.top-bar .header-links ul > li#account a:hover span.sign-in-txt, header > div.top-bar .header-links ul > li#account a:hover span.account-txt, header > div.top-bar .header-links ul > li#cart a:hover span.cart-txt {
+      color: #6300D9;
+   }
+   header > nav.nav-bar-container div.navbar div.container {
+      height: auto;
+      box-shadow: none
+   }
+   header > div.top-bar .header-links ul > li > a {
+      padding: 0
+   }
+   header > div.top-bar .header-links ul > li.cart a {
+      padding: 0;
+      margin-left: 5px
+   }
+   header .middle-bar .nutrisystem-logo img {
+      width: 140px;
+      height: 31px
+   }
+
+   header > nav.nav-bar-container div.navbar ul.navbar-nav {
+      display: table
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav > li > a {
+      font-size: 1em
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav > li > a > span.nav-text {
+      width: auto;
+      font-size: 18px
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav li a span.glyphicon {
+      padding: 0 6px 0 0;
+      position: relative;
+      top: 2px;
+      float: none
+   }
+   #menu-contact-us:not(.active) a, header > nav.nav-bar-container div.navbar ul.navbar-nav > li, header > nav.nav-bar-container div.navbar ul.navbar-nav > li a {
+      border: 0
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav:not(.nav-right) {
+     
+      max-width: 305px;
+      top:25px;
+      left: 240px
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav.nav-right {
+      float: right;
+      max-width: 285px;
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav > li#menu-how-it-works > a {
+      padding: 0px;
+   }
+   #menu-contact-us {
+      z-index: 202;
+      width: 105px;
+   }
+   #my-account, #log-out, #csr {
+      z-index: 202;
+   }
+   #cart svg {
+      position: relative;
+      top: 0px;
+   }
+   #account svg {
+      position: relative;
+      top: 0px;
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav:not(.nav-right) .tab-content {
+      position: absolute;
+      width: 175px;
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav > li.active {
+      background: 0 0;
+      display: table-cell;
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav > li.active > a {
+      background: 0 0;
+      outline-style: none;
+      box-shadow: none;
+      border-color: transparent;
+      border-bottom: 0;
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav > li.active > a:hover {
+      background: 0 0;
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav > li .nav-text {
+      border-bottom: 2px solid #fff;
+      padding-bottom: 0px;
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav > li.active .nav-text {
+      border-bottom: 2px solid #27B8CB;
+   }
+   header > div.top-bar .header-links ul > li {
+      padding-top: 12px;
+      padding-left: 6px;
+   }
+      header > div.top-bar .header-links.myaccount-logged-in ul > li {
+      padding:0;
+      margin:0px;
+      vertical-align: middle;
+   }
+   #menu-get-started {
+      bottom: auto;
+      float: right;
+      position: relative;
+      width: 115px;
+      padding: 14px 0 0;
+      z-index: 112;
+   }
+
+   #menu-get-started a {
+      width: 135px;
+      font-size: 14px;
+      padding: 3px 0 2px 0;
+      width: 100px;
+   }
+   a.nutrisystem-logo {
+      margin-left: 0;
+      padding-top: 26px;
+   }
+   header > nav.nav-bar-container {
+      position: absolute;
+      top: 45px;
+      width: 100%;
+   }
+   header > div.middle-bar .container, header > div.top-bar .container, header > nav.nav-bar-container > div.navbar-default > div.container {
+      width: 100%;
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav > li {
+      padding: 0;
+      display: table-cell;
+      padding-top: 12px;
+   }
+   header > .top-bar .header-links {
+      padding-top: 0;
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav .tab-pane a {
+      font-size: 1em;
+      color: #2B0544;
+   }
+   #menu-view-menu .tab-content {
+      width: 145px;
+      background: #fff;
+      box-shadow: 0 10px 10px 0 rgba(51, 51, 51, .65);
+      left: -30px;
+      padding-left: 10px;
+   }
+   #menu-contact-us .tab-content {
+      width: 230px;
+      background: #fff;
+      box-shadow: 0 10px 10px 0 rgba(51, 51, 51, .65);
+      position: absolute;
+      left: -10px;
+      padding-left: 10px;
+   }
+   header > nav.nav-bar-container li.subnav .subnav-label {
+      font-size: 1.125em;
+      border-bottom: 2px solid #75a246;
+      padding-bottom: 6px;
+      width: 130px;
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav:not(.nav-right) .subnav ul.plans-list {
+      padding-left: 0;
+      padding-bottom: 0;
+      width: 123px;
+   }
+   #menu-shop-plans-women ul.plans-list {
+      width: 110px;
+   }
+   #menu-shop-plans-diabetes ul.plans-list {
+      width: 135px;
+   }
+   #menu-view-menu li a {
+      color: #2B0544;
+   }
+   #menu-view-menu li a:hover, #menu-shop-plans li a:hover {
+      color: #6300D9;
+   }
+   #menu-contact-us a, header > nav.nav-bar-container div.navbar ul.navbar-nav li > a {
+      color: #2B0544;
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav li > a:hover .nav-text, header > nav.nav-bar-container div.navbar ul.navbar-nav > li#menu-success-stories > a:hover > span.nav-text {
+      color: #6300D9;
+      border-bottom: 2px solid #27B8CB;
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav li > a:active .nav-text {
+      color: #2B0544;
+      border-bottom: 2px solid #27B8CB;
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav:not(.nav-right) .subnav ul.plans-list a {
+      font-size: .875em;
+      line-height: 1.2em;
+      display: inline-block;
+   }
+   #menu-contact-us a:hover, header > nav.nav-bar-container div.navbar ul.navbar-nav:not(.nav-right) .subnav ul.plans-list a:hover {
+      color: #6300D9;
+   }
+   #menu-shop-plans .tab-pane {
+      background: #fff;
+      left: -30px;
+      top: -10px;
+      padding: 10px 10px 0;
+      position: relative;
+      box-shadow: 0 10px 10px 0 rgba(51, 51, 51, .65);
+   }
+   #menu-shop-plans, header > nav.nav-bar-container div.navbar {
+      display: block !important;
+   }
+   #menu-shop-plans + .subnav, #menu-shop-plans + .subnav + .subnav, #menu-shop-plans + .subnav + .subnav + .subnav, #menu-shop-plans + .subnav + .subnav + .subnav + .subnav {
+      display: none !important;
+   }
+   #menu-shop-plans.active + .subnav, #menu-shop-plans.active + .subnav + .subnav, #menu-shop-plans.active + .subnav + .subnav + .subnav, #menu-shop-plans.active + .subnav + .subnav + .subnav + .subnav {
+      display: block !important;
+      position: absolute !important;
+      top: 65px;
+      width: 170px;
+      background: #fff;
+   }
+   #menu-shop-plans-women {
+      left: -20px;
+   }
+   #menu-shop-plans-men {
+      left: 150px;
+   }
+   #menu-shop-plans-partner {
+      left: 320px;
+   }
+   #menu-shop-plans-diabetes {
+      left: 490px;
+   }
+   #menu-how-it-works a {
+      text-align: center;
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav li > a.subnav-label {
+      color: #6300D9;
+      border-bottom: 2px solid #27B8CB;
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav li > a.subnav-label:hover {
+      color: #6300D9;
+   }
+   #account {
+      position: relative;
+   }
+   #account .tab-content {
+      width: 200px;
+      background: #fff;
+      box-shadow: 0 10px 10px 0 rgb(51 51 51 / 65%);
+      position: absolute;
+      left: -16px;
+      padding-left: 10px;
+   }
+   #account .tab-pane {
+      padding: 0;
+   }
+   #account .tab-pane ul {
+      padding: 10px 16px 25px 10px;
+   }
+   #account .tab-pane li {
+      padding: 12px 0 0 5px;
+      margin-bottom: 6px;
+   }
+   #account .tab-pane li:first-child {
+      border-bottom: 1px solid #2B0544;
+      height: auto;
+   }
+   #account .tab-pane li p {
+      font-size: 1.25em;
+      line-height: 1.25em;
+      top: -5px;
+   }
+   #account .tab-pane li a {
+      font-size: 1em;
+   }
+   #AccountPanel svg {
+      top: 5px;
+   }
+   header > div.top-bar .header-links ul > li#account .tab-pane li a:hover {
+      border: 0;
+      color: #6300D9;
+   }
+   header > div.top-bar .header-links ul > li#account .tab-pane li a:hover svg path {
+      fill: #2B0544;
+   }
+   #account .tab-pane.collapse.active:not(.in) {
+      display: block;
+      height: auto !important;
+   }
+   #menu-phone {
+      position: relative;
+      padding: 16px 0 0 10px;
+
+   }
+   #menu-phone a {
+      font-size: 18px;
+      padding: 3px 0 2px 0;
+   }
+   #menu-phone svg {
+      margin-right: 5px;
+   }
+   #account-menu {
+      left: -80px;
+   }
+   header > div.top-bar .header-links ul {
+      margin: 25px 0 0;
+   }
+   #menu-contact-us {
+      display: list-item;
+      margin-left: 50px;
+   }
+   header > div.top-bar .header-links ul > li.hidden-xs > a {
+      left: -35px;
+   }
+   header > div.top-bar .header-links ul > li.cart > a > span.badge {
+      top: -6px;
+      left: 15px;
+  }
+}
+@media (min-width: 992px) {
+   header > .top-bar .header-links.myaccount-logged-in {
+      margin-top: 15px;
+  }
+   .wellina-footer img.well-logo-foot {
+      margin: 0 30px 0 0;
+      width: 218px
+   }
+   .wellina-footer li {
+      font-size: 1.125em
+   }
+   .wellina-footer .site-links-col {
+      padding-left: 50px;
+   }
+   .wellina-footer .email-lead .form-group {
+      width: 230px;
+   }
+   .wellina-footer .email-lead button {
+      width: 144px;
+   }
+   .wellina-footer ul.term-links li {
+      font-size: 0.9375em;
+   }
+   header > div.top-bar .header-links.myaccount-logged-in ul > li.logout {
+      margin: 0px 20px;
+      height:auto;
+      position: relative;
+      top:6px
+  }
+  header > div.top-bar .header-links.myaccount-logged-in ul li#cart {
+   top: 11px;
+}
+
+
+
+}
+@media (min-width: 1100px) {
+   header > div.top-bar .header-links ul li#cart {
+      margin: 0px 20px 0;
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav:not(.nav-right) {
+      left: 288px;
+      max-width: 360px;
+   }
+}
+@media (min-width: 1200px) {
+   header .middle-bar {
+      width: 100%;
+  }
+   .wellina-footer img.well-logo-foot {
+      margin: 0 140px 0 0
+   }
+   .wellina-footer ul {
+      padding-left: 0px
+   }
+   .wellina-footer .email-lead .form-group {
+      width: 310px;
+   }
+   .wellina-footer .email-lead button {
+      width: 144px;
+   }
+}
+@media screen and (min-width: 1350px) {
+   header > div.middle-bar .container, header > div.top-bar .container, header > nav.nav-bar-container > div.navbar-default > div.container {
+      width: 1330px;
+   }
+   header > nav.nav-bar-container div.navbar ul.navbar-nav:not(.nav-right) {
+      left: 30%;
+   }
+}

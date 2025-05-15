@@ -1,0 +1,3001 @@
+
+.msrp,
+.small,
+.top-hero p.h5,
+p.with-food {
+    font-family: roc-grotesk, sans-serif
+}
+
+#add-shakes,
+#delivery-options #bogo .ship-btn-txt,
+#delivery-options #pre3pay .ship-btn-txt,
+#delivery-options .btn-save-title,
+#delivery-options .del-price,
+#delivery-options .ship-btn-txt,
+#meal-plan-options,
+#menu-options legend a,
+#product-pane .col-xs-12.col-sm-6.col-md-7,
+.bogo-txt,
+.breadcrumb,
+.divider,
+.price-container,
+a#delivery-options-link,
+button#month2month,
+div#payPalButton,
+div#payPalCreditButton,
+hr.price-hr,
+img.hero-img {
+    display: none
+}
+
+.five9-frame {
+    display: none !important
+}
+
+a#delivery-options-link {
+    font-size: 0
+}
+
+.fw-500 {
+    font-weight: 500 !important
+}
+
+.fw-600 {
+    font-weight: 600
+}
+
+.fw-800 {
+    font-weight: 800
+}
+
+.purple,
+h3.panel-title {
+    color: #6300d9
+}
+
+.lt-purple {
+    color: #c10dfa
+}
+
+#testForm,
+.mb-0 {
+    margin-bottom: 0
+}
+
+.dk-purple,
+.panel-body,
+body {
+    color: #2b0544
+}
+
+.small {
+    font-size: .625em
+}
+
+.less-more .small {
+    font-size: .75em
+}
+
+.less-more .lm-callout-mbl p span,
+.msrp,
+.top-hero p.h4 span {
+    font-size: 22px
+}
+
+.krista-quote p.small-discl {
+    width: 185px;
+    margin-top: 0px
+}
+
+.tap-to-call {
+    background-color: #6300d9;
+    padding: 10px 0
+}
+
+.bot-cta,
+.less-more p.less span {
+    background-color: #fffbd1
+}
+
+.tap-to-call a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px
+}
+
+.tap-to-call a span.glyphicon {
+    margin-right: 10px
+}
+
+.panel-heading.accordion .panel-title a.collapsed:after,
+.panel-heading.accordion .panel-title a:after {
+    color: #27b8cb
+}
+
+
+
+.top-hero img.wellina-logo {
+    width: 165px;
+    height: auto;
+    margin: 25px 0 30px
+}
+
+.top-hero p.h5 {
+    font-size: 1em;
+    margin: 0 0 30px
+}
+
+.msrp .strikethrough,
+.sale-ad .price-style,
+.top-hero p.h4 {
+    font-family: roc-grotesk-wide, sans-serif
+}
+
+.top-hero p.h4 {
+    font-size: 1.125em;
+    margin: 40px 0 12px;
+}
+
+p.with-food {
+    font-size: 1.25em;
+    color: #2b0544;
+    padding-right: 15px;
+    line-height: 1.2;
+    margin-bottom: 20px
+}
+
+.msrp {
+    font-weight: 600;
+    margin: 0;
+    line-height: 1;
+    color: #6300d9;
+    border-top: 1px solid #ccc;
+    padding-top: 15px
+}
+
+.msrp .strikethrough {
+    font-size: 22px;
+    font-weight: 500;
+    color: #2b0544;
+    position: relative
+}
+
+.msrp .strikethrough:before,
+.well-box-callout .strikethrough:before {
+    position: absolute;
+    content: "";
+    left: 7px;
+    top: 48%;
+    right: 0;
+    border-top: 3px solid;
+    border-color: #fe3d50;
+    -webkit-transform: rotate(-5deg);
+    -moz-transform: rotate(-5deg);
+    -ms-transform: rotate(-5deg);
+    -o-transform: rotate(-5deg);
+    transform: rotate(-5deg)
+}
+
+.msrp span {
+    font-size: 14px;
+    font-weight: 500;
+    color: #867195
+}
+
+.sale-ad,
+.strikethrough,
+.succeed {
+    position: relative
+}
+
+.sale-ad p {
+    color: #6300d9;
+    font-weight: 700;
+    font-size: 1.375em;
+    line-height: .6;
+    margin-bottom: 20px
+}
+
+.sale-ad .price-style {
+    display: block;
+    color: #c10dfa;
+    font-weight: 500;
+    margin-top: 20px
+}
+
+.sale-ad .with-ad {
+    position: absolute;
+    color: #867195;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1;
+    right: 15px;
+    top: 25px
+}
+
+.faq .panel-heading.accordion .panel-title a:after {
+    top: 12px
+}
+
+.sale-ad .only-per-wk {
+    display: block;
+    line-height: 1;
+    font-size: 14px;
+    color: #2b0544;
+    text-transform: uppercase
+}
+
+.btn-save-title p {
+    font-size: 1.375em;
+    text-align: left;
+    color: #6300d9;
+    margin: 20px 0 15px
+}
+
+.chef-txt.cus,
+.chef-txt.fav {
+    font-family: roc-grotesk, sans-serif
+}
+
+.ad-txt p,
+.chef-txt.cus,
+.chef-txt.fav,
+.three-mnth-txt p,
+.two-mnth-txt p {
+    color: #2b0544;
+    font-size: 1.375em;
+    font-weight: 700;
+    line-height: 1;
+    margin: 0 0 25px
+}
+
+.rc-msrp-wrap .your-prc {
+    color: #2b0544;
+    font-size: 1.375em;
+    font-weight: 700;
+    line-height: 1;
+    margin: 0
+}
+
+.rc-msrp-wrap .prc-per-mnth {
+    font-family: roc-grotesk-wide, sans-serif;
+    font-size: 1.5em
+}
+
+.goals,
+.rc-msrp-wrap.tk-roc-grotesk,
+.succeed-list {
+    margin-bottom: 30px
+}
+
+.ad-txt p span,
+.chef-sub-txt,
+.chef-txt .btn-call-out,
+.three-mnth-txt p span,
+.two-mnth-txt p span {
+    font-family: roc-grotes, sans-serif;
+    font-size: 14px
+}
+
+.why h2 {
+    margin: 30px 0 0 15px
+}
+
+.why p.all-for {
+    font-size: 1.375em;
+    text-align: left;
+    line-height: .8;
+    margin: 30px 0 0 15px;
+}
+
+.why p.all-for span {
+    position: relative;
+    top:2px;
+    font-size: 35px
+}
+
+.why p.h1 {
+    font-size: 2em;
+    margin: 100px 0 6px
+}
+
+.why .sec-row .why-col p:nth-child(2) {
+    font-size: 1.313em
+}
+
+.why .sec-row .why-col p:nth-child(3) {
+    font-size: 1.188em;
+    padding-right: 12px
+}
+
+.less-more p.less-info,
+.succeed-list li,
+.why .para p {
+    font-size: 1.125em
+}
+
+.why .why-col p.small {
+    margin-bottom: 50px
+}
+
+.why .lose-5-col p:not(p.small) {
+    font-size: 1.938em;
+    line-height: 1.3;
+    margin-top: 10px
+}
+
+.less-more h2 {
+    font-size: 3.563em;
+    margin: 25px 0 15px
+}
+
+.less-more p.sub-head {
+    font-size: 1.125em;
+    margin: 0 0 20px
+}
+
+.less-more p.less,
+.well-box-callout p.one {
+    font-size: 1.75em;
+    margin: 0
+}
+
+.less-more p.less span {
+    padding: 2px 15px 0 1px
+}
+
+.less-more .lm-callout-mbl {
+    position: relative;
+    top: 40px;
+    background-color: #fff0f2;
+    border: 14px solid #c10dfa;
+    width: 320px;
+    margin: 0 auto
+}
+
+.less-more .lm-callout-mbl p {
+    font-size: 13px;
+    line-height: 1;
+    margin: 0;
+    padding: 10px 0
+}
+
+.krista-quote p.losing {
+    font-size: 1.313em;
+    text-transform: uppercase;
+    line-height: 1.2;
+    padding: 0 30px;
+    margin: 5px auto 0
+}
+
+.krista-quote .quote-wrap {
+    margin: 281px 0 0 15px
+}
+
+.krista-quote p.quote-txt {
+    font-size: 1.125em;
+    padding-right: 150px;
+    line-height: 1.2;
+    margin-bottom:10px;
+}
+
+.quote-wrap p:nth-child(2) {
+    font-size: 1.5em;
+    line-height: .9
+}
+
+.quote-wrap p span.lost {
+    font-size: 20px
+}
+
+#comp-chart th span,
+.goals .brandon-quote-bg p.brandon .real-suc-stry,
+.goals .brandon-quote-bg p.fave-meal span,
+.quote-wrap p span.real-suc-stry {
+    font-size: 16px
+}
+
+.quote-wrap p.fave-meal {
+    font-size: 1.125em;
+    line-height: 1.1;
+    margin: 0
+}
+
+.quote-wrap p.fave-meal span {
+    display: block;
+    font-size: 16px;
+    margin-top: 5px
+}
+
+.quote-wrap img.stars {
+    width: 64px;
+    height: auto
+}
+
+.succeed-list h2 {
+    font-size: 1.625em;
+    padding-right: 50px;
+    margin: 30px 0 20px
+}
+
+.succeed li strong,
+.succeed p.learn-how span,
+.succeed-list li strong {
+    display: block;
+    font-size: 22px
+}
+
+.goals li::marker,
+.succeed li::marker,
+.succeed-list li::marker {
+    color: #c10dfa;
+    font-size: 150%
+}
+
+.well-box-callout {
+    margin: 70px 0 0 35px
+}
+
+.well-box-callout p.two {
+    font-size: 20px;
+    margin: 0 0 25px
+}
+
+.well-box-callout p.three {
+    font-size: 22px;
+    margin: 0 0 16px;
+    line-height: 1.3
+}
+
+.well-box-callout p.three span {
+    font-weight: 500
+}
+
+.well-box-callout p.four {
+    font-size: 18px;
+    margin: 0 0 24px;
+    color: #867195;
+    line-height: 1
+}
+
+.well-box-callout p.five {
+    width: 239px;
+    padding: 10px 0;
+    font-size: 22px;
+    margin: 0 0 10px;
+    border-top: 1px solid #27b8cb;
+    border-bottom: 1px solid #27b8cb;
+}
+
+.well-box-callout p.six {
+    font-size: 22px;
+    margin: 0;
+    line-height: 1.3
+}
+
+.well-box-callout p.seven {
+    font-size: 22px;
+    margin: 0 0 15px;
+    line-height: 1.2
+}
+
+.well-box-callout .btn.btn-default {
+    padding: 10px 30px;
+}
+
+.succeed p.learn-how {
+    line-height: 1.1;
+    margin: 50px 0 0 30px
+}
+
+.goals h3 {
+    font-size: 24px;
+    margin: 10px 0 20px
+}
+
+.goals p.h3 {
+    margin: 0 0 15px
+}
+
+.goals p.info-txt {
+    margin: 0 0 20px
+}
+
+.goals p.list-head {
+    margin: 0 0 5px
+}
+
+.goals li {
+    font-size: 16px;
+    margin-bottom: 0
+}
+
+.goals .brandon-quote-bg {
+    background: url(https://www.nutrisystem.com/production/media/9589/brandon-img.jpg) top center/cover no-repeat;
+    height: 610px
+}
+
+.goals .brandon-quote-bg p.quote-txt {
+    font-size: 18px;
+    line-height: 1.2;
+    margin-top: 19px
+}
+
+.goals .brandon-quote-bg p.brandon {
+    font-size: 24px;
+    line-height: .9
+}
+
+.goals .brandon-quote-bg p.brandon .lost {
+    font-size: 18px
+}
+
+.goals .brandon-quote-bg p.fave-meal {
+    font-size: 18px;
+    line-height: 1;
+    margin-bottom: 3px
+}
+
+.goals .brandon-quote-bg p.small {
+    margin: 10px 0 0
+}
+
+.chart p.chart-title {
+    font-size: 25px;
+    line-height: 1.1;
+    padding: 10px 15px;
+    margin-bottom: 0;
+    color: #fff;
+    background-color: #6300d9
+}
+
+#comp-chart .td-txt span,
+.chart span.chart-txt {
+    font-size: 16px;
+    display: block
+}
+
+.chart .bg-blue {
+    background-color: #effcfd;
+    border: 4px solid #fff
+}
+
+.chart .bg-gray {
+    background-color: #f0f0f0;
+    border: 4px solid #fff
+}
+
+.chart {
+    padding: 20px 0 10px
+}
+
+.chart hr.chart-bot {
+    border-top: 1px solid #707070;
+    margin: 10px 15px
+}
+
+.chart p.small {
+    margin: 0 15px
+}
+
+.chart-wrapper {
+    padding-bottom: 10px
+}
+
+#comp-chart td {
+    text-align: center;
+    width: 200px;
+    height: 75px;
+    position: relative;
+    font-size: 22px
+}
+
+#comp-chart tr,
+#comp-chart tr:nth-child(odd) th.first {
+    background-color: #fff
+}
+
+.chart .results hr {
+    border-bottom: 2px solid #f0f0f0;
+    margin: 0;
+    position: relative;
+    top: 15px
+}
+
+.bot-cta .ctaWrapper,
+.chrt-icons img.mcrwv-icon,
+.chrt-icons img.plates-icon,
+.faq .panel {
+    margin-bottom: 24px
+}
+
+#comp-chart tr:nth-child(odd) th {
+    background-color: #fff;
+    font-weight: 500
+}
+
+#comp-chart td.bis,
+#comp-chart td.opt,
+#comp-chart td.sli,
+#comp-chart td.start {
+    background-color: #fff;
+    padding-bottom: 10px
+}
+
+#comp-chart thead td {
+    border-width: 0 0 1px;
+    vertical-align: bottom;
+    padding-bottom: 5px;
+    position: relative
+}
+
+#comp-chart th {
+    text-align: left;
+    width: 270px;
+    padding-right: 30px;
+    border-width: 0 2px;
+    position: relative;
+    font-size: 18px
+}
+
+#comp-chart .limited-txt,
+#comp-chart th:first-child {
+    line-height: 1.2
+}
+
+#comp-chart .chart-check {
+    width: 42px;
+    height: 30px
+}
+
+#comp-chart img.chart-x {
+    width: 26px;
+    height: auto
+}
+
+#comp-chart .shad-r:after,
+#comp-chart td.uy:after {
+    -webkit-box-shadow: 8px 1px 10px -14px inset;
+    -moz-box-shadow: 8px 0 10px -14px inset;
+    box-shadow: 8px 0 10px -14px inset;
+    content: " ";
+    height: 100%;
+    top: 0;
+    right: -8px;
+    position: absolute;
+    width: 8px;
+    z-index: 1;
+}
+
+#comp-chart .shad-b {
+    -webkit-box-shadow: 0 8px 10px -14px inset;
+    -moz-box-shadow: 0 8px 10px -14px inset;
+    box-shadow: 0 8px 10px -14px inset;
+    height: 8px;
+    width: 100%;
+    bottom: -8px;
+    position: absolute;
+    display: block;
+    z-index: 1;
+}
+
+#comp-chart .weeks {
+    display: block;
+    margin-top: 4px;
+    font-size: 14px
+}
+
+#comp-chart .td-txt {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 1
+}
+
+#comp-chart .td-txt span {
+    font-weight: 400;
+    padding-top: 4px;
+    letter-spacing: -.8px;
+    color: #2b0544
+}
+
+.chrt-icons-col {
+    padding: 30px 0
+}
+
+.chrt-icons {
+    margin: 0 auto;
+    width: 315px
+}
+
+.chrt-icons img,
+.chrt-icons p {
+    display: inline-block;
+    vertical-align: middle
+}
+
+.chrt-icons img {
+    width: 64px
+}
+
+.faq h2 {
+    width: auto;
+}
+
+.chrt-icons p {
+    margin: 0 0 0 25px;
+    font-size: 23px
+}
+
+.chart td.td-txt {
+    padding-top: 35px
+}
+
+.bot-cta h2 {
+    color: #2b0544;
+    font-size: 1.4em;
+    margin: 0 auto 30px
+}
+
+.faq h2 {
+    margin: 40px 0 30px;
+    font-size: 2em
+}
+
+.panel-group .panel-heading+.panel-collapse>.panel-body {
+    border-top: 0
+}
+
+.faq .panel {
+    background-color: #fff;
+    border-top: 1px solid #c10dfa;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0
+}
+
+.panel li::marker {
+    color: #c10dfa;
+    font-size: 150%
+}
+
+.featured {
+    margin: 50px auto 45px
+}
+
+#comp-chart td.start.wel {
+    background: url(https://www.nutrisystem.com/production/media/9609/rule-lt-blue.svg) center bottom/contain no-repeat;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff
+}
+
+#comp-chart td.bis,
+#comp-chart td.opt,
+#comp-chart td.sli {
+    background: url(https://www.nutrisystem.com/production/media/9608/rule-gray.svg) center bottom/contain no-repeat;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    color: #2b0544
+}
+
+@media(max-width:767px) {
+    /*UPDATE:*/
+.header-links .dropdown-menu .logout .glyphicon-log-out:before {
+    font-size: 16px;
+}
+
+
+    main#content {
+        margin-top: 95px;
+    }
+    .less-more,
+    .why {
+        margin-top: 30px
+    }
+
+    .no-pad-left-mbl {
+        padding-left: 0
+    }
+
+    .top-hero {
+        background: url(https://www.nutrisystem.com/production/media/9617/top-hero-mbl.jpg) top center/cover no-repeat;
+        height: 342px
+    }
+
+    .why {
+        background: url(https://www.nutrisystem.com/media/wellina/022423/why-bg-mbl-2.jpg) top center/contain no-repeat;
+        padding: 40px 0 0
+    }
+
+    .less-more {
+        background: url(https://www.nutrisystem.com/production/media/9599/less-more-bg-mbl.jpg) top center/cover no-repeat;
+        position: relative;
+        padding: 150px 0 0
+    }
+
+    .krista-quote {
+        background: url(https://www.nutrisystem.com/production/media/9597/krista-bg-mbl.jpg) top center/cover no-repeat;
+        padding-top: 60px;
+        height: 745px
+    }
+
+    .succeed {
+        background: url(https://www.nutrisystem.com/media/wellina/022423/succeed-bg-mbl-2.jpg) top center/cover no-repeat;
+        height: 1319px
+    }
+
+    .chart .container {
+        padding-left: 0;
+        padding-right: 0
+    }
+
+    .chart h2 {
+        font-size: 26px
+    }
+
+    .chart-wrapper {
+        overflow-x: scroll;
+        overflow-y: hidden
+    }
+
+    #comp-chart {
+        width: 730px
+    }
+
+    #comp-chart thead td {
+        font-size: 18px
+    }
+
+    #comp-chart th.first,
+    #comp-chart th.last,
+    #comp-chart tr th.cover {
+        z-index: 3
+    }
+
+    #comp-chart th.cover {
+        height: 5px
+    }
+
+    #comp-chart td {
+        width: 75px;
+        z-index: 1
+    }
+
+    #comp-chart th:first-child {
+        width: 75px;
+        padding: 10px;
+        position: sticky;
+        left: 0;
+        z-index: 5;
+        background: #fff;
+        font-size: 18px;
+        font-weight: 400;
+        color: #2b0544
+    }
+
+    #comp-chart td.wel {
+        z-index: 2
+    }
+
+    #comp-chart td.max:after,
+    #comp-chart td.wel.shad-l:before {
+        content: none
+    }
+
+    .chrt-icons-col {
+        background-color: #fffbd1;
+        margin-top: 10px
+    }
+}
+
+@media(max-width:360px) {
+    .top-hero img.wellina-logo {
+        width: 165px;
+        height: auto;
+        margin: 25px 0 10px
+    }
+
+    .three-mnth-txt,
+    .two-mnth-txt {
+        width: 245px
+    }
+
+    .why h2 {
+        margin: 15px 0 0 15px
+    }
+
+    .why p.all-for {
+        margin: 28px 0 0 15px
+    }
+
+    .why p.h1 {
+        margin: 55px 0 6px
+    }
+
+    .krista-quote p.quote-txt {
+        padding-right: 160px
+    }
+
+    .well-box-callout {
+        margin: 80px 0 0 18px
+    }
+
+    .well-box-callout p.two {
+        margin: 0 0 10px
+    }
+
+    .well-box-callout p.three {
+        margin: 0 0 20px
+    }
+
+    .btn-save-title p {
+        margin: 0 0 15px
+    }
+}
+
+@media(max-width:320px) {
+
+    .succeed-list li,
+    .top-hero p.h4,
+    .why .sec-row .why-col p:nth-child(3) {
+        font-size: 1em
+    }
+
+    .top-hero p.h4 span {
+        font-size: 20px
+    }
+
+    .why {
+        height: 632px
+    }
+
+    .less-more h2 {
+        font-size: 3.2em
+    }
+
+    .well-box-callout p.six {
+        font-size: 20px;
+        line-height: 1.1
+    }
+
+    .three-mnth-txt,
+    .two-mnth-txt {
+        width: 210px
+    }
+
+    .three-mnth-txt p,
+    .two-mnth-txt p {
+        font-size: 1.2em;
+        margin: 0 0 18px
+    }
+
+    .btn-save-title p {
+        margin: 0 0 10px
+    }
+
+    .msrp {
+        margin: 0 0 20px 62px
+    }
+
+    .why h2 {
+        margin: 5px 0 0 15px;
+        font-size: 1.4em
+    }
+
+    .why p.all-for {
+        font-size: 1.2em;
+        margin: 17px 0 0 10px
+    }
+
+    .why .sec-row .why-col p:nth-child(2) {
+        font-size: 1.1em
+    }
+
+    .why p.h1 {
+        font-size: 1.7em;
+        margin: 75px 0 6px
+    }
+
+    .less-more .lm-callout-mbl {
+        width: 290px
+    }
+
+    .well-box-callout .btn.btn-default {
+        padding: 10px 8px;
+    }
+
+    .krista-quote {
+        height: 765px
+    }
+
+    .krista-quote .quote-wrap {
+        margin: 281px 0 0 8px
+    }
+
+    .krista-quote p.small-discl {
+        width: 170px
+    }
+
+    .krista-quote p.losing {
+        margin: 13px auto 0
+    }
+
+    .succeed {
+        height: 1127px
+    }
+
+    .succeed-list li strong {
+        display: block;
+        font-size: 19px
+    }
+
+    .succeed-list h2 {
+        margin: 20px 0 10px
+    }
+
+    .well-box-callout {
+        margin: 57px 0 0 26px
+    }
+
+    .well-box-callout p.one {
+        font-size: 1.6em;
+        margin: 0
+    }
+
+    .well-box-callout p.two {
+        font-size: 18px;
+        margin: 0 0 5px
+    }
+
+    .well-box-callout p.three {
+        margin: 0 0 16px
+    }
+
+    .well-box-callout p.four {
+        font-size: 14px;
+        margin: 0 0 12px
+    }
+
+    .succeed p.learn-how {
+        margin: 17px 0 0 20px
+    }
+
+    .goals .brandon-quote-bg p.quote-txt {
+        font-size: 16px;
+        margin-top: 5px
+    }
+
+    .goals .brandon-quote-bg p.brandon .lost,
+    .goals .brandon-quote-bg p.fave-meal {
+        font-size: 16px
+    }
+
+    .goals .brandon-quote-bg p.brandon .real-suc-stry {
+        font-size: 14px
+    }
+    .quote-wrap p.fave-meal span {
+        margin-top: 0px;
+    }
+}
+
+@media(min-width:390px) {
+    .why .why-col p.small {
+        margin-bottom: 95px
+    }
+
+    .krista-quote p.quote-txt {
+        padding-right: 186px
+    }
+
+    .krista-quote {
+        height: 774px
+    }
+
+    .krista-quote .quote-wrap {
+        margin: 302px 0 0 15px
+    }
+
+    .krista-quote p.losing {
+        margin: 15px auto 0
+    }
+
+    .succeed {
+        height: 1372px
+    }
+
+    .well-box-callout {
+        margin: 76px 0 0 35px
+    }
+
+    .goals .brandon-quote-bg {
+        height: 617px
+    }
+
+    .well-box-callout p.three {
+        margin: 0 0 20px
+    }
+
+    p.with-food {
+        margin-bottom: 35px
+    }
+}
+
+@media(min-width:393px) {
+
+
+    .succeed {
+        height: 1388px;
+    }
+
+    .goals .brandon-quote-bg {
+        height: 625px;
+    }
+}
+
+@media(min-width:411px) {
+    .top-hero {
+        height: 374px
+    }
+
+    .why p.h1 {
+        margin: 95px 0 6px;
+        line-height: 1.3
+    }
+
+    .why .why-col p.small {
+        margin-bottom: 106px
+    }
+
+    .why p.all-for {
+        font-size: 1.8em;
+        text-align: left;
+        line-height: 1.1;
+        margin: 50px 0 0 15px
+    }
+
+    .krista-quote {
+        height: 815px
+    }
+
+    .krista-quote .quote-wrap {
+        margin: 326px 0 0 15px
+    }
+
+    .krista-quote p.losing {
+        margin: 25px auto 0
+    }
+
+    .well-box-callout {
+        margin: 95px 0 0 35px
+    }
+
+    .succeed {
+        height: 1455px
+    }
+
+    .succeed p.learn-how {
+        margin: 60px 0 0 30px
+    }
+
+    .goals .brandon-quote-bg {
+        height: 654px
+    }
+
+    .well-box-callout .ctaWrapper {
+        margin-top: 10px
+    }
+
+    .well-box-callout p.two {
+        margin: 0 0 33px
+    }
+}
+
+@media(min-width:414px) {
+    .krista-quote p.quote-txt {
+        padding-right: 196px
+    }
+
+    .succeed {
+        height: 1456px
+    }
+
+    .goals .brandon-quote-bg {
+        height: 659px
+    }
+}
+
+@media(min-width:428px) {
+    .why .why-col p.small {
+        margin-bottom: 140px
+    }
+
+    .well-box-callout p.four {
+        margin: 0 0 40px
+    }
+
+    .krista-quote .quote-wrap {
+        margin: 346px 0 0 15px
+    }
+
+    .krista-quote p.losing {
+        margin: 45px auto 0
+    }
+
+    .succeed {
+        height: 1506px
+    }
+
+    .goals .brandon-quote-bg {
+        height: 684px
+    }
+
+    .well-box-callout p.three {
+        margin: 0 0 50px
+    }
+
+    .btn-save-title p {
+        margin: 20px 0 15px
+    }
+}
+
+@media(min-width:460px) {
+    .top-hero {
+        height: 410px;
+    }
+
+    .less-more h2 {
+        margin: 44px 0 15px;
+    }
+
+    .succeed {
+        height: 1619px;
+    }
+
+    .why .why-col p.small {
+        margin-bottom: 221px;
+    }
+
+    .krista-quote {
+        height: 885px;
+    }
+
+    .krista-quote p.quote-txt {
+        padding-right: 213px;
+    }
+
+    .krista-quote .quote-wrap {
+        margin: 385px 0 0 15px;
+    }
+
+    .krista-quote p.losing {
+        margin: 80px auto 0;
+    }
+
+    .well-box-callout p.three {
+        margin: 0 0 80px;
+    }
+
+    .well-box-callout p.five {
+        margin: 0 0 50px;
+    }
+
+    .goals .brandon-quote-bg {
+        height: 737px;
+    }
+}
+
+@media(min-width:550px) {
+    .top-hero {
+        height: 500px;
+        padding-top:30px
+    }
+
+    .top-hero img.wellina-logo {
+        width: 250px
+    }
+
+    .top-hero p.h5 {
+        font-size: 1.5em;
+        margin: 0 0 30px
+    }
+
+    .top-hero p.h4 {
+        font-size: 1.65em;
+        margin: 0 0 30px
+    }
+
+    .top-hero p.h4 span {
+        font-size: 30px
+    }
+
+
+
+    .why h2 {
+        font-size: 1.8em;
+        margin: 60px 0 0 50px
+    }
+
+    .why p.all-for {
+        font-size: 1.6em;
+        margin: 70px 0 0 50px
+    }
+
+    .why p.all-for span {
+        font-size: 38px
+    }
+
+    .why p.h1 {
+        margin: 262px 0 16px;
+        font-size: 2.5em
+    }
+
+    .why .sec-row .why-col p:nth-child(2) {
+        font-size: 1.5em
+    }
+
+    .why .why-col p.small {
+        margin-bottom: 226px
+    }
+
+    .less-more h2 {
+        margin: 84px 0 15px
+    }
+
+    .krista-quote .quote-wrap {
+        margin: 451px 0 0 15px
+    }
+
+    .krista-quote p.quote-txt {
+        padding-right: 305px;
+        font-size: 1.5em
+    }
+
+    .krista-quote {
+        height: 1092px
+    }
+
+    .krista-quote p.losing {
+        margin: 112px auto 0
+    }
+
+    .succeed {
+        height: 1928px;
+        background-size: contain
+    }
+
+    .well-box-callout p.one {
+        font-size: 2.5em;
+        margin: 0
+    }
+
+    .well-box-callout p.two {
+        font-size: 25px;
+        margin: 0 0 44px;
+        padding-right: 100px
+    }
+
+    .well-box-callout p.five,
+    .well-box-callout p.three {
+        font-size: 32px
+    }
+
+    .strikethrough,
+    .well-box-callout p.five span,
+    .well-box-callout p.six span.fw-500 {
+        font-size: 36px
+    }
+
+    .well-box-callout p.four,
+    .well-box-callout p.six span.wel-per-week {
+        font-size: 22px
+    }
+
+    .well-box-callout p.six {
+        font-size: 32px;
+        margin: 0
+    }
+
+    .well-box-callout p.seven {
+        font-size: 29px
+    }
+
+    .well-box-callout {
+        margin: 126px 0 0 58px
+    }
+
+    .succeed p.learn-how {
+        margin: 60px 0 0 54px;
+        font-size: 27px
+    }
+
+    .succeed p.learn-how span {
+        font-size: 34px
+    }
+
+    .goals .brandon-quote-bg {
+        height: 892px
+    }
+
+    .goals .brandon-quote-bg p.quote-txt {
+        font-size: 24px;
+        margin-top: 135px
+    }
+
+    p.with-food {
+        margin-bottom: 16px
+    }
+    .well-box-callout p.three {
+        margin: 0 0 23px;
+    }
+    .well-box-callout p.five {
+        margin: 0 0 28px;
+    }
+}
+
+@media(min-width:568px) {
+    .why .why-col p.small {
+        margin-bottom: 259px
+    }
+
+    .krista-quote .quote-wrap {
+        margin: 500px 0 0 15px
+    }
+
+    .krista-quote p.losing {
+        margin: 116px auto 0
+    }
+
+    .goals .brandon-quote-bg {
+        background-size: contain
+    }
+
+    .goals .brandon-quote-bg p.quote-txt {
+        padding-right: 50px
+    }
+}
+
+@media(min-width:667px) {
+    .top-hero {
+        height: 590px
+    }
+
+    .why h2 {
+        margin: 101px 0 0 50px;
+        padding-right: 100px
+    }
+
+    .why p.all-for {
+        margin: 127px 0 0 50px
+    }
+
+    .why .why-col p.small {
+        margin-bottom: 350px
+    }
+
+    .less-more h2 {
+        margin: 144px 0 15px
+    }
+
+    .krista-quote {
+        height: 1260px
+    }
+
+    .krista-quote .quote-wrap {
+        margin: 607px 0 0 15px
+    }
+
+    .krista-quote p.losing {
+        margin: 196px auto 0
+    }
+
+    .well-box-callout {
+        margin: 126px 0 0 115px
+    }
+
+    .succeed p.learn-how {
+        margin: 60px 0 0 116px
+    }
+}
+
+@media(min-width:700px) {
+    .why .why-col p.small {
+        margin-bottom: 415px
+    }
+
+    .krista-quote p.quote-txt {
+        padding-right: 414px
+    }
+
+    .top-hero {
+        height: 613px
+    }
+
+    .top-hero p.h5 {
+        font-size: 1.3em;
+        margin: 0 0 20px
+    }
+
+    .top-hero p.h4 {
+        font-size: 1.9em;
+        margin: 0 0 30px
+    }
+
+    .top-hero img.wellina-logo {
+        margin: 35px 0 40px;
+        width: 320px
+    }
+
+    .krista-quote p.losing {
+        margin: 200px auto 0
+    }
+
+    .goals .brandon-quote-bg p.small {
+        width: 220px
+    }
+}
+
+@media(min-width:736px) {
+    .top-hero {
+        height: 660px
+    }
+
+    .top-hero img.wellina-logo {
+        margin: 45px 0 40px;
+        width: 320px
+    }
+
+    .top-hero p.h4 {
+        font-size: 2em
+    }
+
+    .top-hero p.h4 span {
+        font-size: 38px
+    }
+
+    .why p.h1 {
+        margin: 405px 0 16px
+    }
+
+    .krista-quote .quote-wrap {
+        margin: 697px 0 0 15px
+    }
+
+    .krista-quote {
+        height: 1351px
+    }
+
+    .krista-quote p.losing {
+        margin: 210px auto 0
+    }
+
+    .well-box-callout {
+        margin: 126px 0 0 150px
+    }
+
+    .succeed p.learn-how {
+        margin: 65px 0 0 150px
+    }
+}
+
+@media(min-width:768px) {
+
+    header>div.top-bar .header-links.myaccount-logged-in ul>li>a.hidden-xs {
+        padding: 0 5px 0 12px;
+        margin-right:20px;
+    }
+
+
+    #account-menu .tab-content {
+        width: 200px;
+        background-color: #fff;
+        box-shadow: 0 10px 10px 0 rgb(51 51 51 / 65%);
+        left: 0px;
+    padding-left: 0px;
+    }
+    #account .tab-pane ul {
+        padding: 0 0px 0px 0;
+    }
+    #account .tab-pane {
+        border: 0;
+        border-bottom: 0;
+        padding: 15px;
+    }
+    #account .tab-pane li {
+        margin: 0;
+    }
+#account .myaacct-icon-mbl{
+    display: inline-block;
+    margin-left: 24px;
+}
+
+.header-links.myaccount-logged-in span.glyphicon.glyphicon-log-out {
+    display: inline-block;
+    font-size: 18px;
+    margin-left: 67px;
+}
+
+header>.top-bar .header-links.myaccount-logged-in {
+    margin-top: 10px;
+}
+header>div.top-bar .header-links.myaccount-logged-in ul li#account {
+    position: relative;
+    top:0;
+}
+header>div.top-bar .header-links.myaccount-logged-in ul li#cart {
+   position: static;
+   margin-right:20px;
+}
+.header-links.myaccount-logged-in img.myaacct-icon-filled {
+    position: static;
+    margin-right: 0px;
+    width: 26px;
+    height: auto;
+}
+header>div.top-bar .header-links.myaccount-logged-in ul {
+    margin: 5px 0 0;
+}
+#account .tab-pane li a {
+    font-size: 1em;
+}
+
+
+
+
+
+
+
+
+
+
+
+    .hero-content {
+        margin-top: 115px;
+    }
+
+    .hero-why-bg-dt {
+        background: url(../../media/wellina/hero-why-bg-dt-0423.jpg) top center/cover no-repeat;
+        height: 1285px
+    }
+
+    .less-more-bg-dt {
+        background: url(https://www.nutrisystem.com/production/media/9629/dl-sm-bg-dt.jpg) top center/cover no-repeat;
+        height: 692px
+    }
+
+    .krista-quote {
+        background: url(https://www.nutrisystem.com/production/media/9631/krista-quote-bg-dt.jpg) top center/cover no-repeat;
+        height: 376px
+    }
+
+    .succeed {
+        background: url(https://www.nutrisystem.com/production/media/9611/succeed-bg-dt.jpg) top center/cover no-repeat;
+        height: 500px
+    }
+
+    .less-more .container,
+    .panel-heading.accordion,
+    .succeed .container {
+        position: relative
+    }
+
+    .top-hero p.phone {
+        font-size: 1.125em;
+        margin: 18px auto 0
+    }
+
+    .top-hero img.wellina-logo {
+        margin: 5px 0 30px;
+        width: 193px
+    }
+
+    .top-hero p.h4 {
+        margin: 0 0 20px
+    }
+
+
+
+    .why h2 {
+        margin: 88px 0 0 28px;
+        padding-right: 97px;
+    }
+
+    .krista-quote p.small-discl {
+        margin-top: 0;
+        margin-bottom: 0;
+        font-size: .625em;
+        width: 172px
+    }
+
+    .btn-save-title p {
+        margin: 0 0 10px
+    }
+
+    .goals .brandon-quote-bg p.fave-meal {
+        margin-bottom: 6px;
+        font-size: 16px;
+    }
+
+    .chart-sect {
+        background-color: #fffbd1;
+        padding-bottom: 30px
+    }
+
+    .chart {
+        padding: 0 0 10px;
+        margin-top: -36px
+    }
+
+    .chart .chart-wrapper {
+        text-align: center
+    }
+
+    .chart h2 {
+        font-size: 36px
+    }
+
+    table#comp-chart {
+        margin: 0 auto;
+        width: 95%
+    }
+
+    #comp-chart th {
+        width: 165px;
+        padding-right: 10px
+    }
+
+    #comp-chart td {
+        width: 130px
+    }
+
+    #comp-chart td.max.shad-l:before,
+    #comp-chart td.wel.shad-r:after {
+        content: none
+    }
+
+    #comp-chart a.btn-sm {
+        font-size: 16px;
+        padding: 9px 4px
+    }
+
+    #comp-chart .chart-check {
+        width: 45px;
+        height: 32px
+    }
+
+    #comp-chart th:first-child {
+        padding: 10px 10px 10px 0;
+        font-weight: 500
+    }
+
+    #comp-chart .shad-b,
+    #comp-chart .shad-l:before,
+    #comp-chart .shad-r:after,
+    #comp-chart .shad-t,
+    #comp-chart td.uy:after {
+        box-shadow: none
+    }
+
+    .well-box-callout {
+        margin: 0
+    }
+
+    .chrt-icons {
+        margin: 50px auto 0;
+        width: 215px
+    }
+
+    #comp-chart td.opt,
+    #comp-chart td.sli,
+    #comp-chart td.start.wel {
+        padding-bottom: 35px
+    }
+
+    .chart p.chart-title {
+        margin-bottom: 20px
+    }
+
+    .chrt-icons-col {
+        padding: 60px 0 0
+    }
+
+    .chart .results hr {
+        top: 12px
+    }
+
+    .bot-cta h2 {
+        font-size: 2em;
+        margin: 0 auto 30px
+    }
+
+    .bot-cta .ctaWrapper {
+        margin: 30px auto 0
+    }
+
+    .top-hero {
+        height: 420px
+    }
+
+    .why p.h1 {
+        margin: 78px 0 16px;
+        font-size: 1.75em
+    }
+
+    .why .sec-row .why-col p:nth-child(2) {
+        font-size: 1.2em
+    }
+
+    .why .lose-5-col p:not(p.small) {
+        font-size: 1.938em;
+        margin-top: 0
+    }
+
+    .why .para p,
+    .why .sec-row .why-col p:nth-child(3) {
+        line-height: 1.2
+    }
+
+    .why p.all-for span {
+        top: 0
+    }
+
+    .why p.all-for {
+        margin: 10px 0 0 28px;
+        text-align: left
+    }
+
+    .krista-quote .quote-wrap {
+        margin: 179px 0 0 -13px
+    }
+
+    .less-more h2 {
+        margin: 23px 0 5px;
+        font-size: 3.1em;
+        line-height: 1
+    }
+
+    .less-more p.sub-head {
+        padding-right: 20px
+    }
+
+    .less-more img.lm-callout-dt {
+        width: 156px;
+        height: auto;
+        position: absolute;
+        bottom: -135px;
+        right: -2px
+    }
+
+    .less-more .small {
+        width: 400px;
+        margin-top: 10px
+    }
+
+    .krista-quote p.quote-txt {
+        margin: 0;
+        padding-right: 171px;
+        font-size: .8em
+    }
+
+    .quote-wrap p:nth-child(2) {
+        font-size: .8em;
+        margin: 2px 0 4px;
+    }
+
+    .quote-wrap p span.lost,
+    .quote-wrap p span.real-suc-stry,
+    .well-box-callout p.six span.wel-per-week {
+        font-size: 12px
+    }
+
+    .quote-wrap p.fave-meal {
+        font-size: .8em;
+        line-height: 1;
+    }
+
+    .quote-wrap p.fave-meal span {
+        font-size: 10px;
+        margin-top: 0
+    }
+
+    .quote-wrap img.stars {
+        position: relative;
+        top: -5px
+    }
+
+    .krista-quote p.losing {
+        margin: 143px auto 0;
+        padding: 0;
+        font-size: 1.7em
+    }
+
+    .succeed h2 {
+        font-size: 1.75em;
+        margin: 5px 0 0
+    }
+
+    .succeed li {
+        font-size: 14px;
+        margin-bottom: 0;
+        line-height: 1.3
+    }
+
+    .succeed li strong,
+    .well-box-callout p.six span.fw-500 {
+        font-size: 16px
+    }
+
+    .well-box-callout {
+        background: url(https://www.nutrisystem.com/media/wellina/022423/mid-cta-box-2.png) top left/cover no-repeat;
+        height: 401px;
+        width: 260px;
+        top: -32px;
+        left: 0;
+        position: absolute;
+        padding: 33px 0 0 11px
+    }
+
+    .well-box-callout p.one {
+        font-size: 1.2em;
+        margin: 10px 0 0;
+    }
+
+    .well-box-callout p.two {
+        font-size: 13px;
+        margin: 0 0 8px;
+        padding: 0
+    }
+
+    .well-box-callout p.three {
+        font-size: 16px;
+        line-height: 1;
+        margin: 0 0 10px
+    }
+
+    .succeed p.learn-how {
+        margin: 0;
+        position: absolute;
+        top: 219px;
+        left: -191px;
+        text-align: right;
+        font-size: 16px
+    }
+
+    .succeed p.learn-how span {
+        font-size: 17px
+    }
+
+    .strikethrough,
+    .well-box-callout p.five span {
+        font-size: 20px
+    }
+
+    .well-box-callout p.four {
+        font-size: 13px;
+        margin: 0 0 18px
+    }
+
+    .well-box-callout p.five {
+        font-size: 18px;
+        line-height: 1.1;
+        margin-bottom: 12px
+    }
+
+    .well-box-callout .ctaWrapper {
+        margin-top: 3px
+    }
+
+    .well-box-callout p.six {
+        font-size: 18px;
+        margin: 0;
+        line-height: 1.2
+    }
+
+    .well-box-callout p.seven {
+        font-size: 18px
+    }
+
+    .well-box-callout .btn.btn-default {
+        font-size: 17px;
+        width: 215px
+    }
+
+    .succeed img.text-circle {
+        width: 120px;
+        height: auto;
+        position: absolute;
+        top: 437px;
+        left: 0
+    }
+
+    .goals {
+        margin: 30px auto 50px
+    }
+
+    .goals .brandon-quote-bg p.quote-txt {
+        padding-right: 0;
+        font-size: 20px;
+        margin: 0 0 5px
+    }
+
+    .goals .brandon-quote-bg p.brandon {
+        margin-bottom: 5px;
+        font-size: 23px;
+    }
+
+    .goals .brandon-quote-bg p.small {
+        width: 158px
+    }
+
+    .featured p,
+    .goals p.h3 {
+        font-size: 1.5em
+    }
+
+    .goals h3 {
+        margin: 60px 0 20px
+    }
+
+    .goals .brandon-quote-bg {
+        background-size: cover;
+        height: 591px
+    }
+
+    .panel {
+        border-top: 0
+    }
+
+    hr.panel-rule-dt {
+        margin: 0;
+        border: 0;
+        border-top: 1px solid #c10dfa;
+        position: absolute;
+        top: 24px;
+        right: 15px
+    }
+
+    #headingOne hr.panel-rule-dt {
+        width: 414px
+    }
+
+    #headingTwo hr.panel-rule-dt {
+        width: 343px
+    }
+
+    #headingThree hr.panel-rule-dt {
+        width: 300px
+    }
+
+    #headingFour hr.panel-rule-dt {
+        width: 357px
+    }
+
+    .faq .panel-heading.accordion .panel-title a:after,
+    .panel-heading.accordion .panel-title a.collapsed:after,
+    .panel-heading.accordion .panel-title a:after {
+        top: 23px
+    }
+
+    .faq .panel {
+        border: none
+    }
+
+    .msrp {
+        margin: 0 0 16px 62px
+    }
+    .well-box-callout .btn.btn-default {
+        font-size: 18px;
+        width: 235px;
+        padding: 0px 10px;
+    }
+}
+
+@media(min-width:812px) {
+    .why p.h1 {
+        margin: 61px 0 16px
+    }
+
+    .krista-quote p.losing {
+        margin: 119px auto 0
+    }
+
+    .krista-quote p.quote-txt {
+        margin: 176px 0 0
+    }
+
+    .succeed h2 {
+        margin: 18px 0 0
+    }
+
+    .succeed p.learn-how {
+        top: 250px
+    }
+
+    .goals .brandon-quote-bg p.small {
+        width: 159px
+    }
+}
+
+@media(min-width:820px) {
+    .why p.h1 {
+        margin: 61px 0 16px
+    }
+
+    .krista-quote p.quote-txt {
+        margin: 176px 0 0
+    }
+
+    .krista-quote p.losing {
+        margin: 114px auto 0
+    }
+
+    .succeed h2 {
+        margin: 17px 0 0
+    }
+
+    .succeed p.learn-how {
+        top: 246px
+    }
+}
+
+@media(min-width:915px) {
+    .why p.h1 {
+        margin: 57px 0 16px
+    }
+
+    .krista-quote p.quote-txt {
+        margin: 175px 0 0
+    }
+
+    .krista-quote p.losing {
+        margin: 122px auto 0
+    }
+
+    .succeed p.learn-how {
+        top: 295px
+    }
+}
+
+/*UPDATE:*/
+@media(min-width:950px){
+    header>div.top-bar .header-links.myaccount-logged-in ul {
+        margin: 15px 0 0;
+    }
+    header>div.top-bar .header-links.myaccount-logged-in ul li#account {
+        margin: 0px 0 0;
+    }
+
+    #account .myaacct-icon-mbl {
+        display: inline-block;
+        margin-left: 50px;
+    }
+    .header-links.myaccount-logged-in span.glyphicon.glyphicon-log-out {
+        margin-left: 85px;
+    }
+    #menu-phone a {
+        padding: 0px 0 2px 0;
+    }
+    header>div.top-bar .header-links.myaccount-logged-in ul>li.cart a{
+        padding: 0 12px 0 12px;
+    }
+    #account-menu .tab-content {
+        left: 90px;
+    }
+}
+
+
+
+
+@media(min-width:992px) {
+
+    .btn-default, .btn-primary, .btn-primary-outline, .btn-white-outline {
+        font-size: 36px;
+        padding:17px 40px;
+    }
+
+    .hero-why-bg-dt {
+        height: 1690px
+    }
+
+    .less-more-bg-dt {
+        height: 891px
+    }
+
+    .krista-quote {
+        height: 480px
+    }
+
+    .top-hero {
+        height: 600px
+    }
+
+    .top-hero img.wellina-logo {
+        width: 273px;
+        margin: 5px 0 30px
+    }
+
+    .top-hero p.phone {
+        font-size: 1.75em;
+        margin: 22px auto 0
+    }
+
+    .top-hero p.h5 {
+        font-size: 2.5em;
+        margin: 32px 0 40px
+    }
+
+    .top-hero p.h4 {
+        font-size: 3em;
+        margin: 20px 0
+    }
+
+    .top-hero p.h4 span {
+        font-size: 54px
+    }
+
+
+
+    .quote-wrap p.fave-meal span {
+        margin-bottom: 5px
+    }
+
+
+
+    .why .overlap {
+        background-size: cover;
+        margin-top: -100px;
+        height: 750px
+    }
+
+    .why h2 {
+        font-size: 2.5em;
+        margin: 54px 0 0 28px;
+        padding-right: 60px;
+    }
+
+    .why p.all-for {
+        font-size: 2.2em
+    }
+
+    .why p.all-for span {
+        font-size: 55px
+    }
+
+    .why p.h1 {
+        margin: 90px 0 16px;
+        font-size: 2.525em
+    }
+
+    .faq h3.panel-title,
+    .why .sec-row .why-col p:nth-child(2) {
+        font-size: 1.875em
+    }
+
+    .why .sec-row .why-col p:nth-child(3) {
+        line-height: 1.2;
+        font-size: 1.875em;
+        padding-right: 12px
+    }
+
+    .why .para p {
+        font-size: 1.5em
+    }
+
+    .why .lose-5-col p:not(p.small) {
+        font-size: 2.3em;
+        margin-top: 10px
+    }
+
+    .less-more h2 {
+        margin: 23px 0 5px;
+        font-size: 4.25em
+    }
+
+    .less-more p.sub-head {
+        padding-right: 26px
+    }
+
+    .less-more p.less {
+        font-size: 2.375em;
+        margin: 0
+    }
+
+    .featured p,
+    .less-more p.less-info {
+        font-size: 1.625em
+    }
+
+    .less-more img.lm-callout-dt {
+        width: 230px;
+        height: auto;
+        position: absolute;
+        bottom: -184px;
+        right: -11px
+    }
+
+    .krista-quote p.quote-txt {
+        margin: 234px 0 0;
+        padding-right: 210px;
+        font-size: 1.2em
+    }
+
+    .quote-wrap p:nth-child(2) {
+        font-size: 1.1em;
+        margin: 5px 0 4px
+    }
+
+    .krista-quote p.losing {
+        margin: 166px auto 0;
+        padding: 0;
+        font-size: 2.5em
+    }
+
+    .succeed {
+        height: 1014px
+    }
+
+    .well-box-callout {
+        background-size: contain;
+        height: 609px;
+        width: 100%;
+        top: -44px;
+        left: 0;
+        position: absolute;
+        padding: 33px 0 0 15px
+    }
+
+    .succeed h2 {
+        font-size: 3.2em;
+        margin: 24px 0 0
+    }
+
+    .succeed li {
+        font-size: 22px;
+        margin-bottom: 5px
+    }
+
+    .goals h3,
+    .msrp .strikethrough,
+    .sale-ad .price-style,
+    .succeed li strong {
+        font-size: 36px
+    }
+
+    .succeed p.learn-how {
+        top: 419px;
+        left: -319px;
+        font-size: 25px
+    }
+
+    .succeed p.learn-how span,
+    .well-box-callout p.five span {
+        font-size: 32px
+    }
+
+    .well-box-callout p.one {
+        font-size: 2em;
+        margin: 35px 0 0;
+        line-height: 1
+    }
+
+    .well-box-callout p.two {
+        font-size: 20px;
+        margin: 0 0 15px;
+        padding: 0;
+        line-height: 1.2
+    }
+
+    .well-box-callout p.three {
+        font-size: 28px;
+        line-height: 1;
+        margin: 0 0 58px
+    }
+
+    .strikethrough {
+        font-size: 34px
+    }
+
+    .well-box-callout p.four {
+        font-size: 18px;
+        margin: 0 0 20px
+    }
+
+    .well-box-callout p.five {
+        font-size: 30px;
+        line-height: 1.1;
+        margin-bottom: 18px
+    }
+
+    .well-box-callout p.six {
+        font-size: 28px;
+        margin: 0
+    }
+
+    .well-box-callout p.six span.fw-500 {
+        font-size: 24px
+    }
+
+    .goals .brandon-quote-bg p.brandon .lost,
+    .goals .brandon-quote-bg p.fave-meal,
+    .well-box-callout p.six span.wel-per-week {
+        font-size: 20px
+    }
+
+    .well-box-callout p.seven {
+        font-size: 27px
+    }
+
+    .well-box-callout .btn.btn-default {
+        font-size: 26px;
+        width:auto;
+        padding:10px 30px;
+    }
+
+    .succeed img.text-circle {
+        width: 150px;
+        top: 931px;
+        left: 10px
+    }
+
+    .chart {
+        margin-top: -23px
+    }
+
+    .goals h3 {
+        margin: 150px 0 20px
+    }
+
+    .goals .brandon-quote-bg p.brandon .real-suc-stry,
+    .goals .brandon-quote-bg p.fave-meal span,
+    .goals li,
+    .sale-ad .only-per-wk,
+    .sale-ad .with-ad,
+    .three-mnth-txt p span,
+    .two-mnth-txt p span {
+        font-size: 18px
+    }
+
+    .goals p.h3 {
+        font-size: 1.7em
+    }
+
+    .goals p.info-txt {
+        margin: 0 0 20px;
+        font-size: 20px
+    }
+
+    .goals p.list-head {
+        margin: 0 0 5px;
+        font-size: 20px
+    }
+
+    .goals li {
+        margin-bottom: 0
+    }
+
+    .goals .brandon-quote-bg p.quote-txt {
+        font-size: 27px;
+        margin-top: 60px
+    }
+
+    .goals .brandon-quote-bg p.brandon {
+        font-size: 27px;
+        line-height: .9
+    }
+
+    .goals .brandon-quote-bg {
+        height: 781px
+    }
+
+    .goals .brandon-quote-bg p.small {
+        width: 195px
+    }
+
+    #comp-chart thead td {
+        padding-bottom: 20px
+    }
+
+    .chart .results hr {
+        top: 17px
+    }
+
+    #comp-chart th {
+        width: 250px;
+        padding-right: 30px
+    }
+
+    #comp-chart td {
+        width: 165px
+    }
+
+    #comp-chart a.btn-sm {
+        font-size: 18px;
+        padding: 9px 16px
+    }
+
+    #comp-chart th:first-child span {
+        display: block
+    }
+
+    #comp-chart td.opt,
+    #comp-chart td.sli,
+    #comp-chart td.start.wel {
+        padding-bottom: 10px
+    }
+
+    .chart td.td-txt {
+        padding-top: 20px
+    }
+
+    .bot-cta h2 {
+        font-size: 2.938em;
+        margin: 0 auto 30px
+    }
+
+    p.with-food {
+        font-size: 1.563em;
+        margin-bottom: 50px
+    }
+
+    .msrp {
+        font-size: 32px;
+        margin: 0 0 40px 62px
+    }
+
+    .msrp span {
+        font-size: 22px
+    }
+
+    .sale-ad p {
+        font-size: 2em;
+        margin-bottom: 30px
+    }
+
+    .sale-ad .with-ad {
+        right: -33px;
+        top: 29px;
+        line-height: 1
+    }
+
+    .btn-save-title p,
+    .two-mnth-txt p {
+        font-size: 1.75em;
+        margin: 0 0 30px
+    }
+
+    .three-mnth-txt p {
+        font-size: 1.75em;
+        margin: 0 0 50px
+    }
+
+    .three-mnth-txt,
+    .two-mnth-txt {
+        width: auto
+    }
+
+    #headingOne hr.panel-rule-dt {
+        width: 356px
+    }
+
+    #headingTwo hr.panel-rule-dt {
+        width: 260px
+    }
+
+    #headingThree hr.panel-rule-dt {
+        width: 188px
+    }
+
+    #headingFour hr.panel-rule-dt {
+        width: 267px
+    }
+
+    .faq h2 {
+        font-size: 2.938em
+    }
+
+    .faq .panel-body p,
+    .faq ul li {
+        font-size: 1.375em
+    }
+}
+
+@media(min-width:1024px) {
+    .why p.h1 {
+        margin: 64px 0 16px
+    }
+
+    .krista-quote p.quote-txt {
+        margin: 233px 0 0
+    }
+}
+
+@media(min-width:1200px) {
+    .btn-default, .btn-primary, .btn-primary-outline, .btn-white-outline {
+        font-size: 39px;
+        padding:17px 40px;
+    }
+    .hero-content {
+        margin-top: 160px;
+    }
+
+    .chrt-icons img {
+        width: 90px
+    }
+
+    .hero-why-bg-dt {
+        height: 2002px
+    }
+
+    .less-more-bg-dt {
+        height: 1064px
+    }
+
+    .krista-quote .quote-wrap {
+        margin: 179px 0 0
+    }
+
+    .krista-quote {
+        height: 574px
+    }
+
+    .krista-quote p.small-discl {
+        width: 250px
+    }
+
+    .top-hero {
+        height: 730px
+    }
+
+    .top-hero img.wellina-logo {
+        width: 272px;
+        margin: 15px 0 100px
+    }
+
+    .top-hero p.phone {
+        font-size: 1.75em;
+        margin: 30px auto 0
+    }
+
+    .top-hero p.h5 {
+        font-size: 2.5em;
+        margin: 0 0 50px
+    }
+
+    .top-hero p.h4 {
+        font-size: 3.5em;
+        margin: 0 0 40px
+    }
+
+    .top-hero p.h4 span {
+        font-size: 64px
+    }
+
+
+
+
+    .why p.h1 {
+        margin: 190px 0 16px;
+        font-size: 2.625em
+    }
+
+    .why p.all-for {
+        font-size: 2.625em;
+        margin: 20px 0 0 28px
+    }
+
+    .why p.all-for span {
+        font-size: 62px
+    }
+
+    .why .para p {
+        font-size: 1.625em;
+        padding-right: 45px;
+        margin-bottom: 25px
+    }
+
+    .why .sec-row .why-col p:nth-child(3) {
+        margin-bottom: 20px
+    }
+
+    .why .lose-5-col p:not(p.small) {
+        font-size: 2.625em;
+        margin-top: 10px
+    }
+
+    .less-more h2 {
+        margin: 58px 0 20px;
+        font-size: 4.25em
+    }
+
+    .less-more p.sub-head {
+        font-size: 1.625em;
+        padding-right: 65px;
+        margin: 0 0 30px
+    }
+
+    .less-more p.less-info {
+        margin-bottom: 25px
+    }
+
+    .less-more img.lm-callout-dt {
+        width: 319px;
+        bottom: -221px;
+        right: -11px
+    }
+
+    .krista-quote p.losing {
+        margin: 190px auto 0;
+        font-size: 3em
+    }
+
+    .quote-wrap p:nth-child(2) {
+        font-size: 1.5em;
+        margin: 10px 0 8px
+    }
+
+    .quote-wrap p span.lost {
+        font-size: 18px
+    }
+
+    .quote-wrap p span.real-suc-stry {
+        font-size: 16px
+    }
+
+    .quote-wrap p.fave-meal {
+        font-size: 1em
+    }
+
+    .quote-wrap p.fave-meal span {
+        font-size: 16px;
+        margin: 3px 0 8px
+    }
+
+    .quote-wrap img.stars {
+        width: 97px
+    }
+
+    .krista-quote p.quote-txt {
+        margin: 281px 0 0;
+        padding-right: 0
+    }
+
+    .well-box-callout .ctaWrapper {
+        margin-top: 10px
+    }
+
+    .succeed {
+        height: 1335px
+    }
+
+    .succeed h2 {
+        font-size: 3.875em;
+        margin: 30px 0 15px
+    }
+
+    .succeed li {
+        font-size: 26px;
+        margin-bottom: 25px
+    }
+
+    .goals h3,
+    .succeed li strong {
+        font-size: 42px
+    }
+
+    .succeed p.learn-how {
+        top: 545px;
+        left: -340px;
+        font-size: 27px
+    }
+
+    .succeed p.learn-how span {
+        font-size: 34px
+    }
+
+    .well-box-callout p.one {
+        font-size: 2.5em;
+        margin: 35px 0 0;
+        line-height: 1
+    }
+
+    .well-box-callout {
+        height: 740px;
+        top: -60px;
+        padding: 33px 0 0 20px
+    }
+
+    .well-box-callout p.two {
+        font-size: 25px;
+        margin: 0 0 25px
+    }
+
+    .well-box-callout .btn.btn-default {
+        font-size: 31px;
+        width: auto;
+        padding: 17px 40px;
+    }
+
+    .well-box-callout p.three {
+        font-size: 32px;
+        margin: 0 0 84px
+    }
+
+    .strikethrough,
+    .well-box-callout p.five span {
+        font-size: 36px
+    }
+
+    .well-box-callout p.four {
+        font-size: 22px;
+        margin: 0 0 40px
+    }
+
+    .well-box-callout p.five {
+        font-size: 32px;
+        margin-bottom: 40px
+    }
+
+    .well-box-callout p.six {
+        font-size: 32px;
+        margin: 0
+    }
+
+    #comp-chart td,
+    #comp-chart th,
+    .chart p.chart-title,
+    .goals .brandon-quote-bg p.brandon,
+    .well-box-callout p.six span.fw-500 {
+        font-size: 28px
+    }
+
+    .well-box-callout p.six span.wel-per-week {
+        font-size: 22px
+    }
+
+    .well-box-callout p.seven {
+        font-size: 29px;
+        margin: 0
+    }
+
+    .succeed img.text-circle {
+        width: 270px;
+        top: 1187px;
+        left: 10px
+    }
+
+    .goals .brandon-quote-bg p.quote-txt {
+        font-size: 28px;
+        margin: 150px 0 20px
+    }
+
+    .goals .brandon-quote-bg p.brandon .real-suc-stry {
+        font-size: 20px
+    }
+
+    .goals .brandon-quote-bg p.fave-meal {
+        line-height: 1.2;
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+
+    .goals h3 {
+        margin: 225px 0 20px
+    }
+
+    .goals p.h3 {
+        font-size: 1.875em
+    }
+
+    .goals p.info-txt {
+        margin: 0 0 20px;
+        font-size: 24px
+    }
+
+    .goals p.list-head {
+        margin: 0 0 5px;
+        font-size: 24px
+    }
+
+    .goals li {
+        font-size: 22px;
+        margin-bottom: 0
+    }
+
+    .goals {
+        margin: 30px auto 80px
+    }
+
+    .chart {
+        margin-top: -50px
+    }
+
+    .chart .results hr {
+        top: 11px
+    }
+
+    #comp-chart th {
+        width: 355px
+    }
+
+    #comp-chart td {
+        width: 200px
+    }
+
+    #comp-chart a.btn-sm {
+        font-size: 18px;
+        padding: 9px 18px
+    }
+
+    .goals .brandon-quote-bg {
+        height: 952px
+    }
+
+    .goals .brandon-quote-bg p.small {
+        width: 261px
+    }
+
+    #headingOne hr.panel-rule-dt {
+        width: 518px
+    }
+
+    #headingTwo hr.panel-rule-dt {
+        width: 420px
+    }
+
+    #headingThree hr.panel-rule-dt {
+        width: 350px
+    }
+
+    #headingFour hr.panel-rule-dt {
+        width: 435px
+    }
+
+    .chrt-icons {
+        width: 240px;
+    }
+}
+
+@media(min-width:1920px) {
+
+    .goals .brandon-quote-bg,
+    .hero-why-bg-dt,
+    .krista-quote,
+    .succeed,
+    .top-half-bg-dt {
+        background-size: contain
+    }
+
+    .hero-why-bg-dt {
+        height: 1979px
+    }
+
+    .less-more-bg-dt {
+        height: 1040px
+    }
+
+    .krista-quote {
+        height: 562px
+    }
+
+    .succeed {
+        height: 1306px
+    }
+
+    .less-more h2 {
+        margin: 57px 0 20px
+    }
+
+    .krista-quote p.quote-txt {
+        margin: 273px 0 0
+    }
+
+    .succeed img.text-circle {
+        top: 1154px
+    }
+
+    .goals .brandon-quote-bg p.quote-txt {
+        margin: 145px 0 20px
+    }
+
+    .why p.h1 {
+        margin: 147px 0 16px
+    }
+}
